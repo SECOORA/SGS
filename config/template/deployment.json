@@ -1,0 +1,29 @@
+{
+    "glider": "",
+    "trajectory_date": "",
+    "global_attributes": {
+        "wmo_id": ,
+        "naming_authority" : "",
+        "institution" : "",
+        "creator_email" : "",
+        "creator_name" : "",
+        "creator_url" : "",
+        "publisher_email" : "",
+        "publisher_name" : "",
+        "publisher_url" : "",
+        "acknowledgement" : "",
+        "project" : "",
+        "contributor_name" : "",
+        "contributor_role" : "",
+        "sea_name" : "",
+        "title" : "",
+    },
+    "platform": {
+        "id":  ,
+        "wmo_id":  ,
+        "long_name": "",
+        "comment": "",
+        "instrument": "",
+        "type": "platform"
+    }
+}
