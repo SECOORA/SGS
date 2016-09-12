@@ -1,0 +1,29 @@
+{
+    "glider": "modena",
+    "trajectory_date": "",
+    "global_attributes": {
+        "wmo_id": 4801920,
+        "naming_authority" : "edu.uga.skio",
+        "institution" : "Skidaway Institute of Oceanography",
+        "creator_email" : "vembu@secoora.org",
+        "creator_name" : "Vembu Subramanian",
+        "creator_url" : "http://secoora.org",
+        "publisher_email" : "vembu@secoora.org",
+        "publisher_name" : "Vembu Subramanian",
+        "publisher_url" : "http://secoora.org",
+        "contributor_name" : "Vembu Subramanian",
+        "contributor_role" : "Data Manager",
+        "acknowledgement" : "",
+        "project" : "",
+        "sea_name" : "",
+        "title" : "Modena Slocum Glider Dataset"
+    },
+    "platform": {
+        "id": 4801920,
+        "wmo_id": 4801920,
+        "long_name": "",
+        "comment": "",
+        "instrument": "",
+        "type": "platform"
+    }
+}

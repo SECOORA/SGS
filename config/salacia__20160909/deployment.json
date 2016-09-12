@@ -1,0 +1,29 @@
+{
+    "glider": "salacia",
+    "trajectory_date": "",
+    "global_attributes": {
+        "wmo_id": 4801940,
+        "naming_authority" : "edu.ncsu.meas.oomg",
+        "institution" : "NCSU Ocean Observing and Modeling Group",
+        "creator_email" : "vembu@secoora.org",
+        "creator_name" : "Vembu Subramanian",
+        "creator_url" : "http://secoora.org",
+        "publisher_email" : "vembu@secoora.org",
+        "publisher_name" : "Vembu Subramanian",
+        "publisher_url" : "http://secoora.org",
+        "contributor_name" : "Vembu Subramanian",
+        "contributor_role" : "Data Manager",
+        "acknowledgement" : "",
+        "project" : "",
+        "sea_name" : "",
+        "title" : "Salacia Bass Slocum Glider Dataset",
+    },
+    "platform": {
+        "id": 4801940,
+        "wmo_id": 4801940,
+        "long_name": "",
+        "comment": "",
+        "instrument": "",
+        "type": "platform"
+    }
+}

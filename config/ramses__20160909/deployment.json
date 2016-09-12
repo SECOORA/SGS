@@ -1,0 +1,29 @@
+{
+    "glider": "ramses",
+    "trajectory_date": "",
+    "global_attributes": {
+        "wmo_id": 4801941,
+        "naming_authority" : "edu.unc.marine",
+        "institution" : "UNC Marine Sciences",
+        "creator_email" : "vembu@secoora.org",
+        "creator_name" : "Vembu Subramanian",
+        "creator_url" : "http://secoora.org",
+        "publisher_email" : "vembu@secoora.org",
+        "publisher_name" : "Vembu Subramanian",
+        "publisher_url" : "http://secoora.org",
+        "contributor_name" : "Vembu Subramanian",
+        "contributor_role" : "Data Manager",
+        "acknowledgement" : "",
+        "project" : "",
+        "sea_name" : "",
+        "title" : "Ramses Bass Slocum Glider Dataset",
+    },
+    "platform": {
+        "id": 4801941,
+        "wmo_id": 4801941,
+        "long_name": "",
+        "comment": "",
+        "instrument": "",
+        "type": "platform"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "glider": "bass",
+    "trajectory_date": "20160909T1733Z",
+    "global_attributes": {
+        "wmo_id": 4801918,
+        "naming_authority" : "edu.usf.marine",
+        "institution" : "University of South Florida College of Marine Science Ocean Technology Group",
+        "creator_email" : "vembu@secoora.org",
+        "creator_name" : "Vembu Subramanian",
+        "creator_url" : "http://secoora.org",
+        "publisher_email" : "vembu@secoora.org",
+        "publisher_name" : "Vembu Subramanian",
+        "publisher_url" : "http://secoora.org",
+        "contributor_name" : "Chad Lembke, Vembu Subramanian",
+        "contributor_role" : "Principal Investigator, Data Manager",
+        "acknowledgement" : "Florida Fish and Wildlife Conservation Commission",
+        "project" : "Collaborative Operations with Mote Marine Laboratory",
+        "sea_name" : "",
+        "title" : "USF Bass Slocum Glider Dataset"
+    },
+    "platform": {
+        "id": 4801918,
+        "wmo_id": 4801918,
+        "long_name": "Slocum Glider USF Bass",
+        "comment": "",
+        "instrument": "",
+        "type": "platform"
+    }
+}
