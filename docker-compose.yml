@@ -17,7 +17,7 @@ services:
       - mongo
 
   gdam:
-    build: ../GDAM
+    build: axiom/gdam
     environment:
       MONGO_URL: mongodb://mongo:27017
       ZMQ_URL: tcp://*:44444
@@ -30,7 +30,7 @@ services:
     entrypoint: docker/wait.sh mongo:27017 --strict --timeout=30 -- /sbin/my_init
 
   gdam2nc:
-    build: ../GDAM
+    build: axiom/gdam
     environment:
       ZMQ_URL: tcp://gdam:44444
       RUN_GDAM2NC: "yes"
@@ -43,7 +43,7 @@ services:
     entrypoint: docker/wait.sh gdam:44444 --strict --timeout=30 -- /sbin/my_init
 
   nc2ftp:
-    build: ../GDAM
+    build: axiom/gdam
     environment:
       NC2FTPURL: ftp
       NC2FTPUSER: thisisme
