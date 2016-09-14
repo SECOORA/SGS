@@ -11,7 +11,7 @@
             "user_calibrated": "YYYY-MM-DD",
             "factory_calibrated": "YYYY-MM-DD",
             "calibration_report": "",
-            "platform": "platform",
+            "platform": "platform"
         }
     },
     {
@@ -44,7 +44,7 @@
             "calibration_date": "YYYY-MM-DD",
             "factory_calibrated": "YYYY-MM-DD",
             "calibration_report": "",
-            "platform": "platform",
+            "platform": "platform"
         }
     },
     {
@@ -58,7 +58,7 @@
             "calibration_date": "YYYY-MM-DD",
             "factory_calibrated": "YYYY-MM-DD",
             "calibration_report": "",
-            "platform": "platform",
+            "platform": "platform"
         }
     },
     {
@@ -72,7 +72,7 @@
             "calibration_date": "YYYY-MM-DD",
             "factory_calibrated": "YYYY-MM-DD",
             "calibration_report": "",
-            "platform": "platform",
+            "platform": "platform"
         }
     },
     {
@@ -86,7 +86,7 @@
             "calibration_date": "YYYY-MM-DD",
             "factory_calibrated": "YYYY-MM-DD",
             "calibration_report": "",
-            "platform": "platform",
+            "platform": "platform"
         }
     }
 ]
