@@ -11,9 +11,9 @@
         "publisher_email" : "vembu@secoora.org",
         "publisher_name" : "Vembu Subramanian",
         "publisher_url" : "http://secoora.org",
-        "contributor_name" : "Chad Lembke, Vembu Subramanian",
-        "contributor_role" : "Principal Investigator, Data Manager",
-        "acknowledgement" : "Florida Fish and Wildlife Conservation Commission",
+        "contributor_name" : "Chad Lembke",
+        "contributor_role" : "Principal Investigator",
+        "acknowledgement" : "This work was supported by funding from NOAA/IOOS/SECOORA.",
         "project" : "Collaborative Operations with Mote Marine Laboratory",
         "sea_name" : "",
         "title" : "USF Bass Slocum Glider Dataset"

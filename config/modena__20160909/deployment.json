@@ -1,6 +1,6 @@
 {
     "glider": "modena",
-    "trajectory_date": "",
+    "trajectory_date": "20160909T1758Z",
     "global_attributes": {
         "wmo_id": 4801920,
         "naming_authority" : "edu.uga.skio",
@@ -11,9 +11,9 @@
         "publisher_email" : "vembu@secoora.org",
         "publisher_name" : "Vembu Subramanian",
         "publisher_url" : "http://secoora.org",
-        "contributor_name" : "Vembu Subramanian",
-        "contributor_role" : "Data Manager",
-        "acknowledgement" : "",
+        "contributor_name" : "Catherine Edwards",
+        "contributor_role" : "Principal Investigator",
+        "acknowledgement" : "This work was supported by funding from NOAA/IOOS/SECOORA.",
         "project" : "",
         "sea_name" : "",
         "title" : "Modena Slocum Glider Dataset"
@@ -21,7 +21,7 @@
     "platform": {
         "id": 4801920,
         "wmo_id": 4801920,
-        "long_name": "",
+        "long_name": "Slocum Glider Bass",
         "comment": "",
         "instrument": "",
         "type": "platform"
