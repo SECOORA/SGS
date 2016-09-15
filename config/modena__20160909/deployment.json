@@ -13,9 +13,14 @@
         "publisher_url" : "http://secoora.org",
         "contributor_name" : "Catherine Edwards",
         "contributor_role" : "Principal Investigator",
+        "support_name": "secoora,ioos,noaa",
+        "support_type": "ra,federal,federal",
+        "support_email": "vembu@secoora.org,ioos.glider.data@noaa.gov,ioos.glider.data@noaa.gov",
+        "support_role": "fiscal,fiscal,fiscal",
+        "ioos_regional_association": "secoora",
         "acknowledgement" : "This work was supported by funding from NOAA/IOOS/SECOORA.",
         "project" : "",
-        "sea_name" : "",
+        "sea_name" : "North Atlantic Ocean",
         "title" : "Modena Slocum Glider Dataset"
     },
     "platform": {

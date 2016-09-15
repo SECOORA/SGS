@@ -11,6 +11,7 @@
             "user_calibrated": "",
             "factory_calibrated": "",
             "calibration_report": "",
+            "type": "instrument",
             "platform": "platform"
         }
     },
@@ -18,18 +19,21 @@
         "name": "instrument_altimeter",
         "type": "i4",
         "attrs": {
+            "type": "instrument"
         }
     },
     {
         "name": "instrument_gps",
         "type": "i4",
         "attrs": {
+            "type": "instrument"
         }
     },
     {
         "name": "instrument_attitude",
         "type": "i4",
         "attrs": {
+            "type": "instrument",
             "make_model": ""
         }
     },
@@ -44,6 +48,7 @@
             "calibration_date": "",
             "factory_calibrated": "",
             "calibration_report": "",
+            "type": "instrument",
             "platform": "platform"
         }
     },
@@ -58,6 +63,7 @@
             "calibration_date": "",
             "factory_calibrated": "",
             "calibration_report": "",
+            "type": "instrument",
             "platform": "platform"
         }
     },
@@ -72,6 +78,7 @@
             "calibration_date": "",
             "factory_calibrated": "",
             "calibration_report": "",
+            "type": "instrument",
             "platform": "platform"
         }
     },
@@ -86,6 +93,7 @@
             "calibration_date": "",
             "factory_calibrated": "",
             "calibration_report": "",
+            "type": "instrument",
             "platform": "platform"
         }
     }

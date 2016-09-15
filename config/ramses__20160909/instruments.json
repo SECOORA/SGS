@@ -5,12 +5,13 @@
         "attrs": {
             "serial_number": "0056",
             "make_model": "Seabird ctd41cp",
-            "comment": "Slocum Glider UNC Ramses",
+            "comment": "unpumped CTD",
             "long_name": "Seabird WEBB Glider Conductivity, Temperature, Depth Sensor",
             "calibration_date": "2011-09-11",
             "user_calibrated": "",
             "factory_calibrated": "",
             "calibration_report": "",
+            "type": "instrument",
             "platform": "platform"
         }
     },
@@ -18,18 +19,21 @@
         "name": "instrument_altimeter",
         "type": "i4",
         "attrs": {
+            "type": "instrument"
         }
     },
     {
         "name": "instrument_gps",
         "type": "i4",
         "attrs": {
+            "type": "instrument"
         }
     },
     {
         "name": "instrument_attitude",
         "type": "i4",
         "attrs": {
+            "type": "instrument",
             "make_model": ""
         }
     },
@@ -44,6 +48,7 @@
             "calibration_date": "",
             "factory_calibrated": "",
             "calibration_report": "",
+            "type": "instrument",
             "platform": "platform"
         }
     },
@@ -58,6 +63,7 @@
             "calibration_date": "",
             "factory_calibrated": "",
             "calibration_report": "",
+            "type": "instrument",
             "platform": "platform"
         }
     },
@@ -72,6 +78,7 @@
             "calibration_date": "2010-12-06",
             "factory_calibrated": "",
             "calibration_report": "",
+            "type": "instrument",
             "platform": "platform"
         }
     },
@@ -86,6 +93,7 @@
             "calibration_date": "2010-07-02",
             "factory_calibrated": "",
             "calibration_report": "",
+            "type": "instrument",
             "platform": "platform"
         }
     }

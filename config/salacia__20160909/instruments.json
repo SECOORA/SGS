@@ -5,12 +5,13 @@
         "attrs": {
             "serial_number": "0103",
             "make_model": "Seabird ctd41cp",
-            "comment": "Slocum Glider SkIO Modena -- unpumped CTD",
+            "comment": "unpumped CTD",
             "long_name": "Seabird WEBB unpumped glider conductivity, temperature, depth sensor",
             "calibration_date": "2014-02-20",
             "user_calibrated": "",
             "factory_calibrated": "2014-02-20",
             "calibration_report": "76686",
+            "type": "instrument",
             "platform": "platform"
         }
     },
@@ -18,12 +19,14 @@
         "name": "instrument_altimeter",
         "type": "i4",
         "attrs": {
+            "type": "instrument"
         }
     },
     {
         "name": "instrument_gps",
         "type": "i4",
         "attrs": {
+            "type": "instrument"
         }
     },
     {
@@ -44,6 +47,7 @@
             "calibration_date": "",
             "factory_calibrated": "",
             "calibration_report": "",
+            "type": "instrument",
             "platform": "platform"
         }
     },
@@ -58,6 +62,7 @@
             "calibration_date": "",
             "factory_calibrated": "",
             "calibration_report": "",
+            "type": "instrument",
             "platform": "platform"
         }
     },
@@ -72,6 +77,7 @@
             "calibration_date": "",
             "factory_calibrated": "",
             "calibration_report": "",
+            "type": "instrument",
             "platform": "platform"
         }
     },
@@ -86,6 +92,7 @@
             "calibration_date": "",
             "factory_calibrated": "",
             "calibration_report": "",
+            "type": "instrument",
             "platform": "platform"
         }
     }

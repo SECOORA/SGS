@@ -13,10 +13,15 @@
         "publisher_url" : "http://secoora.org",
         "contributor_name" : "Vembu Subramanian",
         "contributor_role" : "Data Manager",
+        "support_name": "secoora,ioos,noaa",
+        "support_type": "ra,federal,federal",
+        "support_email": "vembu@secoora.org,ioos.glider.data@noaa.gov,ioos.glider.data@noaa.gov",
+        "support_role": "fiscal,fiscal,fiscal",
+        "ioos_regional_association": "secoora",
         "acknowledgement" : "",
         "project" : "",
-        "sea_name" : "",
-        "title" : "",
+        "sea_name" : "North Atlantic Ocean",
+        "title" : ""
     },
     "platform": {
         "id":  ,
