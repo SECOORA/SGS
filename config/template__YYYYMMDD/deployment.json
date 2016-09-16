@@ -1,6 +1,6 @@
 {
     "glider": "",
-    "trajectory_date": "",
+    "trajectory_date": "YYYYMMDDTHHmm",
     "global_attributes": {
         "wmo_id": ,
         "naming_authority" : "",
