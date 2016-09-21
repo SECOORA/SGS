@@ -2,7 +2,6 @@
     "featureType": "trajectory",
     "Conventions": "CF-1.6",
     "Metadata_Conventions": "CF-1.6, Unidata Dataset Discovery v1.0",
-    "cdm_data_type": "Trajectory",
     "format_version": "IOOS_Glider_NetCDF_v2.0.nc",
     "keywords": "Oceans > Ocean Pressure > Water Pressure, Oceans > Ocean Temperature > Water Temperature, Oceans > Salinity/Density > Conductivity, Oceans > Salinity/Density > Density, Oceans > Salinity/Density > Salinity",
     "keywords_vocabulary": "GCMD Science Keywords",
