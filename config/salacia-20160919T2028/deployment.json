@@ -31,11 +31,11 @@
         "platform": {
             "attributes": {
                 "comment": "",
-                "id": 4801918,
+                "id": 4801940,
                 "instrument": "instrument_ctd",
-                "long_name": "Slocum Glider USF Bass",
+                "long_name": "Slocum Glider Salacia",
                 "type": "platform",
-                "wmo_id": 4801918
+                "wmo_id": 4801940
             }
         },
         "density": {
