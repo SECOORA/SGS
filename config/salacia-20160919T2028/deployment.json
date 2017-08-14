@@ -25,7 +25,7 @@
         "support_role": "fiscal,fiscal,fiscal",
         "support_type": "ra,federal,federal",
         "title" : "NCSU Salacia Slocum Glider Dataset",
-        "wmo_id": 4801940,
+        "wmo_id": 4801940
     },
     "variables": {
         "platform": {
