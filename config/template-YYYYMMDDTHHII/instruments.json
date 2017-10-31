@@ -1,100 +1,94 @@
-[
-    {
-        "name": "instrument_ctd",
-        "type": "i4",
-        "attrs": {
-            "serial_number": "",
-            "make_model": "",
-            "comment": "",
-            "long_name": "",
-            "calibration_date": "",
-            "user_calibrated": "",
-            "factory_calibrated": "",
-            "calibration_report": "",
-            "type": "instrument",
-            "platform": "platform"
-        }
-    },
-    {
-        "name": "instrument_altimeter",
-        "type": "i4",
-        "attrs": {
-            "type": "instrument"
-        }
-    },
-    {
-        "name": "instrument_gps",
-        "type": "i4",
-        "attrs": {
-            "type": "instrument"
-        }
-    },
-    {
-        "name": "instrument_attitude",
-        "type": "i4",
-        "attrs": {
-            "type": "instrument",
-            "make_model": ""
-        }
-    },
-    {
-        "name": "instrument_irradiance",
-        "type": "i4",
-        "attrs": {
-            "serial_number": "",
-            "make_model": "",
-            "comment": "",
-            "long_name": "",
-            "calibration_date": "",
-            "factory_calibrated": "",
-            "calibration_report": "",
-            "type": "instrument",
-            "platform": "platform"
-        }
-    },
-    {
-        "name": "instrument_radiance",
-        "type": "i4",
-        "attrs": {
-            "serial_number": "",
-            "make_model": "",
-            "comment": "",
-            "long_name": "",
-            "calibration_date": "",
-            "factory_calibrated": "",
-            "calibration_report": "",
-            "type": "instrument",
-            "platform": "platform"
-        }
-    },
-    {
-        "name": "instrument_fluorometer",
-        "type": "i4",
-        "attrs": {
-            "serial_number": "",
-            "make_model": "",
-            "comment": "",
-            "long_name": "",
-            "calibration_date": "",
-            "factory_calibrated": "",
-            "calibration_report": "",
-            "type": "instrument",
-            "platform": "platform"
-        }
-    },
-    {
-        "name": "instrument_dissolved_oxygen",
-        "type": "i4",
-        "attrs": {
-            "serial_number": "",
-            "make_model": "",
-            "comment": "",
-            "long_name": "",
-            "calibration_date": "",
-            "factory_calibrated": "",
-            "calibration_report": "",
-            "type": "instrument",
-            "platform": "platform"
+{
+    "variables": {
+        "instrument_ctd": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "",
+                "make_model": "",
+                "comment": "",
+                "long_name": "",
+                "calibration_date": "",
+                "user_calibrated": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        },
+        "instrument_altimeter": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_gps": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_altitude": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument",
+                "make_model": ""
+            }
+        },
+        "instrument_irradiance": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "",
+                "make_model": "",
+                "comment": "",
+                "long_name": "",
+                "calibration_date": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        },
+        "instrument_radiance": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "",
+                "make_model": "",
+                "comment": "",
+                "long_name": "",
+                "calibration_date": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        },
+        "instrument_fluorometer": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "",
+                "make_model": "",
+                "comment": "",
+                "long_name": "",
+                "calibration_date": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        },
+        "instrument_dissolved_oxygen": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "",
+                "make_model": "",
+                "comment": "",
+                "long_name": "",
+                "calibration_date": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
         }
     }
-]
+}
