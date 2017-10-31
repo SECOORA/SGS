@@ -1,0 +1,77 @@
+{
+    "glider": "bass",
+    "trajectory_date": "20150407T1300",
+    "attributes": {
+        "acknowledgement" : "This work was supported by funding from NOAA/IOOS/SECOORA.",
+        "comment": "",
+        "contributor_name" : "Chad Lembke",
+        "contributor_role" : "Principal Investigator",
+        "contributor_url" : "http://www.marine.usf.edu",
+        "creator_email" : "dmac@secoora.org",
+        "creator_name" : "SECOORA",
+        "creator_url" : "http://secoora.org",
+        "institution" : "University of South Florida College of Marine Science Ocean Technology Group",
+        "ioos_regional_association": "secoora",
+        "metadata_link": "",
+        "naming_authority" : "edu.usf.marine",
+        "project" : "Collaborative Operations with Mote Marine Laboratory",
+        "publisher_email" : "dmac@secoora.org",
+        "publisher_name" : "SECOORA",
+        "publisher_url" : "http://secoora.org",
+        "sea_name" : "North Atlantic Ocean",
+        "summary": "USF Bass Glider deployment in the North Atlantic Ocean",
+        "support_email": "dmac@secoora.org,ioos.glider.data@noaa.gov,ioos.glider.data@noaa.gov",
+        "support_name": "secoora,ioos,noaa",
+        "support_role": "fiscal,fiscal,fiscal",
+        "support_type": "ra,federal,federal",
+        "title" : "USF Bass Slocum Glider Dataset",
+        "wmo_id": 4801516
+    },
+    "variables": {
+        "platform": {
+            "attributes": {
+                "comment": "",
+                "id": 4801516,
+                "instrument": "",
+                "long_name": "Slocum Glider USF Bass",
+                "type": "platform",
+                "wmo_id": 4801516
+            }
+        },
+        "density": {
+            "attributes": {
+                "instrument": "instrument_altimeter"
+            }
+        },
+        "depth": {
+            "attributes": {
+                "instrument": "instrument_altimeter"
+            }
+        },
+        "conductivity": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "pressure": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "salinity": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "temperature": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "m_altitude": {
+            "attributes": {
+                "instrument": "instrument_altitude"
+            }
+        }
+    }
+}
