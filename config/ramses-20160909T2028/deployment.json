@@ -68,12 +68,7 @@
                 "instrument": "instrument_ctd"
             }
         },
-        "dissolved_oxygen": {
-            "attributes": {
-                "instrument": "instrument_dissolved_oxygen"
-            }
-        },
-        "altitude": {
+        "m_altitude": {
             "attributes": {
                 "instrument": "instrument_altitude"
             }
