@@ -1,7 +1,7 @@
 {
     "glider": "ramses",
     "trajectory_date": "20160909T2028",
-    "global_attributes": {
+    "attributes": {
         "acknowledgement" : "This work was supported by funding from NOAA/IOOS/SECOORA.",
         "comment": "",
         "contributor_name" : "Harvey Seim",

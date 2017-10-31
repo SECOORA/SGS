@@ -1,7 +1,7 @@
 {
     "glider": "salacia",
     "trajectory_date": "20160919T2028",
-    "global_attributes": {
+    "attributes": {
         "acknowledgement" : "This work was supported by funding from NOAA/IOOS/SECOORA.",
         "comment": "",
         "contributor_name" : "Ruoying He",

@@ -1,7 +1,7 @@
 {
     "glider": "salacia",
     "trajectory_date": "20170710T1942",
-    "global_attributes": {
+    "attributes": {
         "acknowledgement" : "This work was supported by funding from NOAA/IOOS/SECOORA.",
         "comment": "",
         "contributor_name" : "Ruoying He",
@@ -25,7 +25,7 @@
         "support_role": "fiscal,fiscal,fiscal",
         "support_type": "ra,federal,federal",
         "title" : "NCSU Salacia Slocum Glider Dataset",
-        "wmo_id": "",
+        "wmo_id": ""
     },
     "variables": {
         "platform": {
