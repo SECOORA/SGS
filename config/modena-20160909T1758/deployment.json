@@ -32,7 +32,7 @@
             "attributes": {
                 "comment": "",
                 "id": 4801920,
-                "instrument": "instrument_ctd",
+                "instrument": "",
                 "long_name": "Slocum Glider Modena",
                 "type": "platform",
                 "wmo_id": 4801920

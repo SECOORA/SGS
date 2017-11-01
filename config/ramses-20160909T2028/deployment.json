@@ -32,7 +32,7 @@
             "attributes": {
                 "comment": "",
                 "id": 4801941,
-                "instrument": "instrument_ctd",
+                "instrument": "",
                 "long_name": "Slocum Glider Ramses",
                 "type": "platform",
                 "wmo_id": 4801941
