@@ -1,0 +1,77 @@
+{
+    "glider": "ramses",
+    "trajectory_date": "20170905T1728",
+    "attributes": {
+        "acknowledgement" : "This work was supported by funding from NOAA/IOOS/SECOORA.",
+        "comment": "",
+        "contributor_name" : "Harvey Seim",
+        "contributor_role" : "Principal Investigator",
+        "contributor_url" : "http://marine.unc.edu/people/faculty/harvey-seim/",
+        "creator_email" : "dmac@secoora.org",
+        "creator_name" : "SECOORA",
+        "creator_url" : "http://secoora.org",
+        "institution" : "UNC Marine Sciences",
+        "ioos_regional_association": "secoora",
+        "metadata_link": "",
+        "naming_authority" : "edu.unc.marine",
+        "project" : "",
+        "publisher_email" : "dmac@secoora.org",
+        "publisher_name" : "SECOORA",
+        "publisher_url" : "http://secoora.org",
+        "sea_name" : "North Atlantic Ocean",
+        "summary": "UNC Ramses Glider deployment in the North Atlantic Ocean",
+        "support_email": "dmac@secoora.org,ioos.glider.data@noaa.gov,ioos.glider.data@noaa.gov",
+        "support_name": "secoora,ioos,noaa",
+        "support_role": "fiscal,fiscal,fiscal",
+        "support_type": "ra,federal,federal",
+        "title" : "UNC Ramses Slocum Glider Dataset",
+        "wmo_id": ""
+    },
+    "variables": {
+        "platform": {
+            "attributes": {
+                "comment": "",
+                "id": "",
+                "instrument": "",
+                "long_name": "Slocum Glider Ramses",
+                "type": "platform",
+                "wmo_id": ""
+            }
+        },
+        "density": {
+            "attributes": {
+                "instrument": "instrument_altimeter"
+            }
+        },
+        "depth": {
+            "attributes": {
+                "instrument": "instrument_altimeter"
+            }
+        },
+        "conductivity": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "pressure": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "salinity": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "temperature": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "m_altitude": {
+            "attributes": {
+                "instrument": "instrument_altitude"
+            }
+        }
+    }
+}

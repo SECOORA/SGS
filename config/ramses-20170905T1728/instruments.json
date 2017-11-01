@@ -1,0 +1,94 @@
+{
+    "variables": {
+        "instrument_ctd": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "0056",
+                "make_model": "Seabird ctd41cp",
+                "comment": "unpumped CTD",
+                "long_name": "Seabird WEBB Glider Conductivity, Temperature, Depth Sensor",
+                "calibration_date": "2011-09-11",
+                "user_calibrated": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        },
+        "instrument_altimeter": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_gps": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_altitude": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument",
+                "make_model": "PNI TCM3"
+            }
+        },
+        "instrument_irradiance": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "",
+                "make_model": "",
+                "comment": "",
+                "long_name": "",
+                "calibration_date": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        },
+        "instrument_radiance": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "",
+                "make_model": "",
+                "comment": "",
+                "long_name": "",
+                "calibration_date": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        },
+        "instrument_fluorometer": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "2003",
+                "make_model": "Wetlabs FLBBCD",
+                "comment": "Slocum Glider UNC Ramses",
+                "long_name": "Wetlabs FLBBCD Fluorometer",
+                "calibration_date": "2010-12-06",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        },
+        "instrument_dissolved_oxygen": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "1345",
+                "make_model": "Aanderaa 3835",
+                "comment": "Slocum Glider UNC Ramses",
+                "long_name": "Aanderaa Oxygen Optode 3835",
+                "calibration_date": "2010-07-02",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        }
+    }
+}
