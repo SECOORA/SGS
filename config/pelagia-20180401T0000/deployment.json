@@ -32,17 +32,17 @@
         "support_role": "fiscal,fiscal,fiscal",
         "support_type": "ra,federal,federal",
         "title": "Pelagia Slocum Glider Dataset",
-        "wmo_id": ""
+        "wmo_id": 4802900
     },
     "variables": {
         "platform": {
             "attributes": {
                 "comment": "",
-                "id": "",
+                "id": 4802900,
                 "instrument": "",
                 "long_name": "SKIO Slocum Glider Pelagia",
                 "type": "platform",
-                "wmo_id": ""
+                "wmo_id": 4802900
             }
         },
         "density": {
