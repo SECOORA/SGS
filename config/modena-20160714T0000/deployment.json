@@ -1,0 +1,84 @@
+{
+    "glider": "modena",
+    "trajectory_date": "20160714T0000",
+    "attributes": {
+        "acknowledgement" : "This research was made possible in part by a grant from The Gulf of Mexico Research Initiative to support the ECOGIG research consortia. Data are publicly available through the Gulf of Mexico Research Initiative Information & Data Cooperative (GRIIDC) at https://data.gulfresearchinitiative.org. This is ECOGIG contribution XXX.",
+        "comment": "",
+        "contributor_name" : "Catherine Edwards, Renato Castelao",
+        "contributor_role" : "Co Investigators",
+        "contributor_url" : "",
+        "creator_email" : "dmac@secoora.org",
+        "creator_name": "SECOORA Glider Observatory",
+        "creator_url" : "",
+        "institution" : "University of Georgia",
+        "ioos_regional_association": "",
+        "keywords": "Oceans > Ocean Pressure > Water Pressure, Oceans > Ocean Temperature > Water Temperature, Oceans > Salinity/Density > Conductivity, Oceans > Salinity/Density > Density, Oceans > Salinity/Density > Salinity",
+        "keywords_vocabulary": "GCMD Science Keywords",
+        "license": "This data may be redistributed and used without restriction.",
+        "metadata_link": "",
+        "naming_authority" : "",
+        "platform_type": "Slocum Glider",
+        "processing_level": "Dataset taken from glider native file format and is provided as is with no expressed or implied assurance of quality assurance or quality control.",
+        "project" : "ECOGIG-2 Gliders 2016",
+        "publisher_email" : "catherine.edwards@skio.uga,edu, castelao@uga.edu",
+        "publisher_name": "Catherine Edwards, Renato Castelao",
+        "publisher_url" : "http://ecogig.org",
+        "references": "",
+        "sea_name" : "Gulf of Mexico",
+        "source": "Observational data from a profiling glider",
+        "summary": "",
+        "support_email": "",
+        "support_name": "",
+        "support_role": "",
+        "support_type": "",
+        "title" : "",
+        "wmo_id": 4801920
+    },
+    "variables": {
+        "platform": {
+            "attributes": {
+                "comment": "",
+                "id": "modena",
+                "instrument": "Slocum G2 Glider",
+                "long_name": "Teledyne Webb Research Slocum Electric 200m glider Modena, unit 337",
+                "type": "platform",
+                "wmo_id": 4801920
+            }
+        },
+        "density": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "depth": {
+            "attributes": {
+                "instrument": "instrument_pressure"
+            }
+        },
+        "conductivity": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "pressure": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "salinity": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "temperature": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "m_altitude": {
+            "attributes": {
+                "instrument": "instrument_altitude"
+            }
+        }
+    }
+}

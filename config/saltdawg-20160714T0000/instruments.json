@@ -1,0 +1,110 @@
+
+[
+    {
+        "name": "instrument_ctd",
+        "type": "i4",
+        "attrs": {
+            "serial_number": "164",
+            "make_model": "Seabird Slocum Glider Payload CTD",
+            "comment": "Slocum Glider",
+            "long_name": "Seabird WEBB glider conductivity, temperature, depth sensor",
+            "calibration_date": "",
+            "user_calibrated": "",
+            "factory_calibrated": "",
+            "calibration_report": "",
+            "platform": "platform"
+        }
+    },
+    {
+        "name": "instrument_altimeter",
+        "type": "i4",
+        "attrs": {
+        }
+    },
+    {
+        "name": "instrument_gps",
+        "type": "i4",
+        "attrs": {
+        }
+    },
+    {
+        "name": "instrument_attitude",
+        "type": "i4",
+        "attrs": {
+            "make_model": ""
+        }
+    },
+    {
+        "name": "instrument_irradiance",
+        "type": "i4",
+        "attrs": {
+            "serial_number": "",
+            "make_model": "",
+            "comment": "",
+            "long_name": "",
+            "calibration_date": "",
+            "factory_calibrated": "",
+            "calibration_report": "",
+            "platform": "platform"
+        }
+    },
+    {
+        "name": "instrument_radiance",
+        "type": "i4",
+        "attrs": {
+            "serial_number": "",
+            "make_model": "",
+            "comment": "",
+            "long_name": "",
+            "calibration_date": "",
+            "factory_calibrated": "",
+            "calibration_report": "",
+            "platform": "platform"
+        }
+    },
+    {
+        "name": "instrument_fluorometer",
+        "type": "i4",
+        "attrs": {
+            "serial_number": "4047",
+            "make_model": "Wetlabs FLBBCD",
+            "comment": "Slocum Glider SkIO Modena",
+            "long_name": "Wetlabs FLBBCD Fluorometer",
+            "calibration_date": "",
+            "factory_calibrated": "",
+            "calibration_report": "",
+            "platform": "platform"
+        }
+    },
+
+    {
+        "name": "instrument_fluorometer",
+        "type": "i4",
+        "attrs": {
+            "serial_number": "4086",
+            "make_model": "Wetlabs FLBBCDSLC-4086",
+            "comment": "Slocum Glider",
+            "long_name": "Wetlabs FLBBCDSLC Fluorometer",
+            "calibration_date": "",
+            "factory_calibrated": "",
+            "calibration_report": "",
+            "platform": "platform"
+        }
+    },
+    {
+        "name": "instrument_dissolved_oxygen",
+        "type": "i4",
+        "attrs": {
+            "serial_number": "1088",
+            "make_model": "Aanderaa 3835",
+            "comment": "Slocum Glider",
+            "long_name": "Aanderaa Oxygen Optode",
+            "calibration_date": "",
+            "factory_calibrated": "",
+            "calibration_report": "",
+            "platform": "platform"
+        }
+    }
+]
+
+
