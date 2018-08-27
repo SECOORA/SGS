@@ -1,0 +1,73 @@
+{
+    "glider": "Sam",
+    "trajectory_date": "20180824T0000",
+    "attributes": {
+        "acknowledgement" : "",
+        "comment": "",
+        "contributor_name" : "Chad Lembke, SECOORA",
+        "contributor_role" : "Principal Investigator, DMAC",
+        "contributor_url" : "http://www.marine.usf.edu, http://secoora.org",
+        "creator_name" : "Chad Lembke",
+        "creator_role" : "Principal Investigator",
+        "creator_url" : "http://www.marine.usf.edu",
+        "institution" : "University of South Florida College of Marine Science Ocean Technology Group",
+        "ioos_regional_association": "secoora",
+        "metadata_link": "",
+        "naming_authority" : "edu.usf.marine",
+        "project" : "",
+        "publisher_email" : "dmac@secoora.org",
+        "publisher_name" : "SECOORA",
+        "publisher_url" : "http://secoora.org",
+        "sea_name" : "North Atlantic Ocean",
+        "summary": "USF Sam Glider deployment in the North Atlantic Ocean",
+        "title" : "USF Sam Slocum Glider Dataset",
+        "wmo_id": ""
+    },
+    "variables": {
+        "platform": {
+            "attributes": {
+                "comment": "",
+                "id": "",
+                "instrument": "",
+                "long_name": "Slocum Glider USF Sam",
+                "type": "platform",
+                "wmo_id": ""
+            }
+        },
+        "density": {
+            "attributes": {
+                "instrument": "instrument_altimeter"
+            }
+        },
+        "depth": {
+            "attributes": {
+                "instrument": "instrument_altimeter"
+            }
+        },
+        "conductivity": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "pressure": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "salinity": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "temperature": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "m_altitude": {
+            "attributes": {
+                "instrument": "instrument_altitude"
+            }
+        }
+    }
+}
