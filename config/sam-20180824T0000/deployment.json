@@ -2,36 +2,38 @@
     "glider": "sam",
     "trajectory_date": "20180824T0000",
     "attributes": {
-        "acknowledgement" : "",
+        "acknowledgement" : "This work was supported by funding from The State of Florida in collaboration with the Florida Fish and Wildlife Conservation Commission.",
         "comment": "",
-        "contributor_name" : "Chad Lembke, SECOORA",
-        "contributor_role" : "Principal Investigator, DMAC",
-        "contributor_url" : "http://www.marine.usf.edu, http://secoora.org",
-        "creator_name" : "Chad Lembke",
-        "creator_role" : "Principal Investigator",
-        "creator_url" : "http://www.marine.usf.edu",
-        "institution" : "University of South Florida College of Marine Science Ocean Technology Group",
+        "contributor_name" : "Chad Lembke, Robert Weisberg",
+        "contributor_role" : "Principal Investigator, Principal Investigator",
+        "contributor_url" : "https://www.marine.usf.edu, https://www.marine.usf.edu",
+        "creator_name" : "SECOORA Glider Observatory",
+        "creator_email" : "dmac@secoora.org",
+        "creator_url" : "https://secoora.org",
+        "institution" : "University of South Florida College of Marine Science Center for Ocean Technology",
         "ioos_regional_association": "secoora",
+        "keywords": "Oceans > Ocean Pressure > Water Pressure, Oceans > Ocean Temperature > Water Temperature, Oceans > Salinity/Density > Conductivity, Oceans > Salinity/Density > Density, Oceans > Salinity/Density > Salinity",
+        "keywords_vocabulary": "GCMD Science Keywords",
         "metadata_link": "",
         "naming_authority" : "edu.usf.marine",
-        "project" : "",
+        "project" : "USF College of Marine Science Center for Prediction of Red Tide 2018",
         "publisher_email" : "dmac@secoora.org",
-        "publisher_name" : "SECOORA",
-        "publisher_url" : "http://secoora.org",
+        "publisher_name" : "SECOORA Glider Observatory",
+        "publisher_url" : "https://secoora.org",
         "sea_name" : "Gulf of Mexico",
-        "summary": "USF Sam Glider deployment in the North Atlantic Ocean",
+        "summary": "USF Sam Glider deployment in the Gulf of Mexico",
         "title" : "USF Sam Slocum Glider Dataset",
-        "wmo_id": ""
+        "wmo_id": 4801942
     },
     "variables": {
         "platform": {
             "attributes": {
                 "comment": "",
-                "id": "",
+                "id": "4801942",
                 "instrument": "",
                 "long_name": "Slocum Glider USF Sam",
                 "type": "platform",
-                "wmo_id": ""
+                "wmo_id": 4801942
             }
         },
         "density": {
