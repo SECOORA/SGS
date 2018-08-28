@@ -3,13 +3,13 @@
         "instrument_ctd": {
             "type": "i4",
             "attributes": {
-                "serial_number": "",
-                "make_model": "",
-                "comment": "",
-                "long_name": "",
-                "calibration_date": "",
-                "user_calibrated": "",
-                "factory_calibrated": "",
+                "serial_number": "0127",
+                "make_model": "Seaglider WEBB Glider CTD",
+                "comment": "unpumped CTD",
+                "long_name": "Seaglider WEBB Glider CTD",
+                "calibration_date": "2016-01-16",
+                "user_calibrated": "2016-01-16",
+                "factory_calibrated": "2016-01-16",
                 "calibration_report": "",
                 "type": "instrument",
                 "platform": "platform"
@@ -65,12 +65,12 @@
         "instrument_fluorometer": {
             "type": "i4",
             "attributes": {
-                "serial_number": "",
-                "make_model": "",
-                "comment": "",
-                "long_name": "",
-                "calibration_date": "",
-                "factory_calibrated": "",
+                "serial_number": "0522",
+                "make_model": "Wetlabs BBFL2SLO",
+                "comment": "Slocum Glider USF Sam",
+                "long_name": "Wetlabs BBFL2SLO Flurometer",
+                "calibration_date": "2016-02-11",
+                "factory_calibrated": "2016-02-11",
                 "calibration_report": "",
                 "type": "instrument",
                 "platform": "platform"
