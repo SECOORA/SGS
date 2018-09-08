@@ -1,0 +1,84 @@
+{
+    "glider": "ramses",
+    "trajectory_date": "20180907T0000",
+    "attributes": {
+        "acknowledgement" : "This work was supported by funding from NSF.",
+        "comment": "",
+        "contributor_name" : "Catherine Edwards, Harvey Seim",
+        "contributor_role" : "Principal Investigator",
+        "contributor_url" : "http://marine.unc.edu/people/faculty/harvey-seim/",
+        "creator_email" : "dmac@secoora.org",
+        "creator_name": "SECOORA Glider Observatory",
+        "creator_url" : "https://secoora.org",
+        "institution" : "UNC Marine Sciences",
+        "ioos_regional_association": "secoora",
+        "keywords": "Oceans > Ocean Pressure > Water Pressure, Oceans > Ocean Temperature > Water Temperature, Oceans > Salinity/Density > Conductivity, Oceans > Salinity/Density > Density, Oceans > Salinity/Density > Salinity",
+        "keywords_vocabulary": "GCMD Science Keywords",
+        "license": "This data may be redistributed and used without restriction.",
+        "metadata_link": "",
+        "naming_authority" : "edu.unc.marine",
+        "platform_type": "Slocum Glider",
+        "processing_level": "Dataset taken from glider native file format and is provided as is with no expressed or implied assurance of quality assurance or quality control.",
+        "project" : "PEACH Gliders at Cape Hatteras",
+        "publisher_email" : "dmac@secoora.org",
+        "publisher_name": "SECOORA Glider Observatory",
+        "publisher_url" : "https://secoora.org",
+        "references": "",
+        "sea_name" : "North Atlantic Ocean",
+        "source": "Observational data from a profiling glider",
+        "summary": "UNC Ramses Glider deployment in the North Atlantic Ocean deployed in support of the PEACH program",
+        "support_email": "catherine.edwards@skio.uga.edu,hseim@email.unc.edu",
+        "support_name": "Catherine Edwards, Harvey Seim",
+        "support_role": "fiscal,fiscal",
+        "support_type": "federal,federal",
+        "title": "Ramses Slocum Glider Dataset (PEACH 2018)",
+        "wmo_id": 4801941
+    },
+    "variables": {
+        "platform": {
+            "attributes": {
+                "comment": "",
+                "id": 4801941,
+                "instrument": "",
+                "long_name": "",
+                "type": "platform",
+                "wmo_id": 4801941
+            }
+        },
+        "density": {
+            "attributes": {
+                "instrument": "instrument_altimeter"
+            }
+        },
+        "depth": {
+            "attributes": {
+                "instrument": "instrument_altimeter"
+            }
+        },
+        "conductivity": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "pressure": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "salinity": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "temperature": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "m_altitude": {
+            "attributes": {
+                "instrument": "instrument_altitude"
+            }
+        }
+    }
+}
