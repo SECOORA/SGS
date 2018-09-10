@@ -1,0 +1,85 @@
+{
+    "glider": "pelagia",
+    "trajectory_date": "20180910T0000",
+    "attributes": {
+        "acknowledgement" : "This work was supported by funding from NSF.",
+        "comment": "This deployment was part of the Hurricane Glider deployments of 2018",
+        "contributor_email": "catherine.edwards@skio.uga.edu",
+        "contributor_name": "Catherine Edwards",
+        "contributor_role": "Principal Investigator",
+        "contributor_url": "http://www.marsci.uga.edu/directory/catherine-r-edwards",
+        "creator_email": "dmac@secoora.org",
+        "creator_name": "SECOORA Glider Observatory",
+        "creator_url": "http://secoora.org",
+        "institution": "Skidaway Institute of Oceanography",
+        "ioos_regional_association": "secoora",
+        "keywords": "Oceans > Ocean Pressure > Water Pressure, Oceans > Ocean Temperature > Water Temperature, Oceans > Salinity/Density > Conductivity, Oceans > Salinity/Density > Density, Oceans > Salinity/Density > Salinity",
+        "keywords_vocabulary": "GCMD Science Keywords",
+        "license": "This data may be redistributed and used without restriction.",
+        "metadata_link": "",
+        "naming_authority": "edu.uga.skio",
+        "platform_type": "Slocum Glider",
+        "processing_level": "Dataset taken from glider native file format and is provided as is with no expressed or implied assurance of quality assurance or quality control.",
+        "project" : "PEACH Gliders at Cape Hatteras",
+        "publisher_email" : "dmac@secoora.org",
+        "publisher_name": "SECOORA Glider Observatory",
+        "publisher_url": "http://secoora.org",
+        "references": "",
+        "sea_name": "North Atlantic Ocean",
+        "source": "Observational data from a profiling glider",
+        "summary": "SKIO Pelagia Glider deployment in the North Atlantic Ocean deployed in support of the PEACH program",
+        "support_email": "catherine.edwards@skio.uga.edu",
+        "support_name": "Catherine Edwards",
+        "support_role": "fiscal",
+        "support_type": "federal",
+        "title": "Pelagia Slocum Glider Dataset (PEACH 2018)",
+        "wmo_id": 4802900
+    },
+    "variables": {
+        "platform": {
+            "attributes": {
+                "comment": "",
+                "id": 4802900,
+                "instrument": "",
+                "long_name": "SKIO Slocum Glider Pelagia",
+                "type": "platform",
+                "wmo_id": 4802900
+            }
+        },
+        "density": {
+            "attributes": {
+                "instrument": "instrument_altimeter"
+            }
+        },
+        "depth": {
+            "attributes": {
+                "instrument": "instrument_altimeter"
+            }
+        },
+        "conductivity": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "pressure": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "salinity": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "temperature": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "m_altitude": {
+            "attributes": {
+                "instrument": "instrument_altitude"
+            }
+        }
+    }
+}
