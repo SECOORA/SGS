@@ -3,16 +3,16 @@
         "instrument_ctd": {
             "type": "i4",
             "attributes": {
-                "calibration_date": "2013-09-06",
-                "calibration_report": "http://ooma.marine.usf.edu/usf-bass/calibration/seabird_2013/75484R_CD_Contents",
-                "comment": "unpumped CTD",
-                "factory_calibrated": "2013-09-06",
-                "long_name": "Seabird WEBB Glider Conductivity, Temperature, Depth Sensor",
-                "make_model": "Seabird WEBB Glider CTD",
+                "serial_number": "712-9481",
+                "make_model": "Seabird Slocum Glider Payload CTD",
+                "comment": "Slocum Glider SkIO Franklin -- pumped CTD",
+                "long_name": "Seabird WEBB pumped glider conductivity, temperature, depth sensor",
+                "calibration_date": "2019",
+                "user_calibrated": "",
+                "factory_calibrated": "y",
+                "calibration_report": "",
                 "platform": "platform",
-                "serial_number": "0126",
-                "type": "instrument",
-                "user_calibrated": "2013-09-06"
+                "type": "instrument"
             }
         },
         "instrument_altimeter": {
@@ -37,52 +37,52 @@
         "instrument_irradiance": {
             "type": "i4",
             "attributes": {
-                "calibration_date": "",
-                "calibration_report": "",
-                "comment": "",
-                "factory_calibrated": "",
-                "long_name": "",
-                "make_model": "",
-                "platform": "platform",
                 "serial_number": "",
+                "make_model": "",
+                "comment": "",
+                "long_name": "",
+                "calibration_date": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "platform": "platform",
                 "type": "instrument"
             }
         },
         "instrument_radiance": {
             "type": "i4",
             "attributes": {
-                "calibration_date": "",
-                "calibration_report": "",
-                "comment": "",
-                "factory_calibrated": "",
-                "long_name": "",
-                "make_model": "",
-                "platform": "platform",
                 "serial_number": "",
+                "make_model": "",
+                "comment": "",
+                "long_name": "",
+                "calibration_date": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "platform": "platform",
                 "type": "instrument"
             }
-        },
+        }
         "instrument_fluorometer": {
             "type": "i4",
             "attributes": {
+                "serial_number": "5489",
+                "make_model": "Wetlabs FLBBCD",
+                "comment": "Slocum Glider SkIO Franklin",
+                "long_name": "Wetlabs FLBBCD Fluorometer",
                 "calibration_date": "",
-                "calibration_report": "",
-                "comment": "Slocum Glider SkIO/UNCW Glider Pelagia",
                 "factory_calibrated": "",
-                "long_name": "Wetlabs BBFL2S Fluorometer",
-                "make_model": "Wetlabs BBFL2S",
+                "calibration_report": "",
                 "platform": "platform",
-                "serial_number": "935",
                 "type": "instrument"
             }
         },
         "instrument_dissolved_oxygen": {
             "type": "i4",
             "attributes": {
-                "serial_number": "62",
-                "make_model": "Aanderaa 3835",
-                "comment": "Slocum Glider SkIO/UNCW Glider Pelagia",
-                "long_name": "Aanderaa Oxygen Optode 3835",
+                "serial_number": "0669",
+                "make_model": "Aanderaa 4841",
+                "comment": "Slocum Glider SkIO Franklin",
+                "long_name": "Aanderaa Oxygen Optode 4841",
                 "calibration_date": "",
                 "factory_calibrated": "",
                 "calibration_report": "",
