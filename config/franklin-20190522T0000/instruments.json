@@ -61,7 +61,7 @@
                 "platform": "platform",
                 "type": "instrument"
             }
-        }
+        },
         "instrument_fluorometer": {
             "type": "i4",
             "attributes": {
