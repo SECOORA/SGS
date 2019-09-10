@@ -4,10 +4,10 @@
     "attributes": {
         "acknowledgement": "This work was supported by funding from NOAA/IOOS/SECOORA.",
         "comment": "",
-        "contributor_email": "clembke@usf.edu,weisberg@usf.edu",
-        "contributor_name": "Chad Lembke,Robert Weisberg",
+        "contributor_email": "clembke@usf.edu,catherine.edwards@skio.uga.edu"
+        "contributor_name": "Chad Lembke,Catherine Edwards"
         "contributor_role": "Principal Investigator,Principal Investigator",
-        "contributor_url": "https://www.marine.usf.edu,https://www.marine.usf.edu",
+        "contributor_url": "https://www.marine.usf.edu,http://www.marsci.uga.edu/directory/catherine-r-edwards",
         "creator_email": "dmac@secoora.org",
         "creator_name": "SECOORA Glider Observatory",
         "creator_url": "https://secoora.org",
@@ -24,9 +24,9 @@
         "publisher_email": "dmac@secoora.org",
         "publisher_name": "SECOORA Glider Observatory",
         "publisher_url": "https://secoora.org",
-        "sea_name": "Gulf of Mexico",
+        "sea_name": "North Atlantic Ocean",
         "source": "Observational data from a profiling glider",
-        "summary": "USF Sam Glider deployment in the Gulf of Mexico (2019)",
+        "summary": "USF Sam Glider deployment in the Southeast US Atlantic Bight (2019)",
         "support_email": "dmac@secoora.org,ioos.glider.data@noaa.gov,ioos.glider.data@noaa.gov",
         "support_name": "secoora,ioos,noaa",
         "support_role": "fiscal,fiscal,fiscal",
