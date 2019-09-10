@@ -1,48 +1,48 @@
 {
-    "glider": "template",
-    "trajectory_date": "YYYYMMDDTHHII",
+    "glider": "pelagia",
+    "trajectory_date": "20190910T0000",
     "attributes": {
         "acknowledgement": "This work was supported by funding from NOAA/IOOS/SECOORA.",
         "comment": "",
-        "contributor_name": "",
+        "contributor_email": "catherine.edwards@skio.uga.edu",
+        "contributor_name": "Catherine Edwards",
         "contributor_role": "Principal Investigator",
-        "contributor_url": "",
+        "contributor_url": "http://www.marsci.uga.edu/directory/catherine-r-edwards",
         "creator_email": "dmac@secoora.org",
         "creator_name": "SECOORA Glider Observatory",
         "creator_url": "http://secoora.org",
-        "institution": "",
+        "institution": "Skidaway Institute of Oceanography",
         "ioos_regional_association": "secoora",
         "keywords": "Oceans > Ocean Pressure > Water Pressure, Oceans > Ocean Temperature > Water Temperature, Oceans > Salinity/Density > Conductivity, Oceans > Salinity/Density > Density, Oceans > Salinity/Density > Salinity",
         "keywords_vocabulary": "GCMD Science Keywords",
         "license": "This data may be redistributed and used without restriction.",
         "metadata_link": "",
-        "naming_authority": "",
+        "naming_authority": "edu.uga.skio",
         "platform_type": "Slocum Glider",
         "processing_level": "Dataset taken from glider native file format and is provided as is with no expressed or implied assurance of quality assurance or quality control.",
-        "project": "SECOORA Glider Observatory",
-        "publisher_email": "dmac@secoora.org",
+        "project" : "SECOORA Glider Observatory",
+        "publisher_email" : "dmac@secoora.org",
         "publisher_name": "SECOORA Glider Observatory",
         "publisher_url": "http://secoora.org",
-        "references": "",
         "sea_name": "North Atlantic Ocean",
         "source": "Observational data from a profiling glider",
-        "summary": "",
+        "summary": "SKIO Pelagia Glider deployment in the North Atlantic Ocean (2019)",
         "support_email": "dmac@secoora.org,ioos.glider.data@noaa.gov,ioos.glider.data@noaa.gov",
         "support_name": "secoora,ioos,noaa",
         "support_role": "fiscal,fiscal,fiscal",
         "support_type": "ra,federal,federal",
-        "title": "",
-        "wmo_id": 0000000
+        "title": "Pelagia Slocum Glider Dataset (Sept 2019)",
+        "wmo_id": 4802900
     },
     "variables": {
         "platform": {
             "attributes": {
                 "comment": "",
-                "id": 0000000,
+                "id": 4802900,
                 "instrument": "",
-                "long_name": "",
+                "long_name": "SKIO Slocum Glider Pelagia",
                 "type": "platform",
-                "wmo_id": 0000000
+                "wmo_id": 4802900
             }
         },
         "density": {

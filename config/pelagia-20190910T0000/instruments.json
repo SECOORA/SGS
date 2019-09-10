@@ -1,0 +1,94 @@
+{
+    "variables": {
+        "instrument_ctd": {
+            "type": "i4",
+            "attributes": {
+                "calibration_date": "2013-09-06",
+                "calibration_report": "http://ooma.marine.usf.edu/usf-bass/calibration/seabird_2013/75484R_CD_Contents",
+                "comment": "unpumped CTD",
+                "factory_calibrated": "2013-09-06",
+                "long_name": "Seabird WEBB Glider Conductivity, Temperature, Depth Sensor",
+                "make_model": "Seabird WEBB Glider CTD",
+                "platform": "platform",
+                "serial_number": "0126",
+                "type": "instrument",
+                "user_calibrated": "2013-09-06"
+            }
+        },
+        "instrument_altimeter": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_gps": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_altitude": {
+            "type": "i4",
+            "attributes": {
+                "make_model": "",
+                "type": "instrument"
+            }
+        },
+        "instrument_irradiance": {
+            "type": "i4",
+            "attributes": {
+                "calibration_date": "",
+                "calibration_report": "",
+                "comment": "",
+                "factory_calibrated": "",
+                "long_name": "",
+                "make_model": "",
+                "platform": "platform",
+                "serial_number": "",
+                "type": "instrument"
+            }
+        },
+        "instrument_radiance": {
+            "type": "i4",
+            "attributes": {
+                "calibration_date": "",
+                "calibration_report": "",
+                "comment": "",
+                "factory_calibrated": "",
+                "long_name": "",
+                "make_model": "",
+                "platform": "platform",
+                "serial_number": "",
+                "type": "instrument"
+            }
+        },
+        "instrument_fluorometer": {
+            "type": "i4",
+            "attributes": {
+                "calibration_date": "",
+                "calibration_report": "",
+                "comment": "Slocum Glider SkIO/UNCW Glider Pelagia",
+                "factory_calibrated": "",
+                "long_name": "Wetlabs BBFL2S Fluorometer",
+                "make_model": "Wetlabs BBFL2S",
+                "platform": "platform",
+                "serial_number": "935",
+                "type": "instrument"
+            }
+        },
+        "instrument_dissolved_oxygen": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "62",
+                "make_model": "Aanderaa 3835",
+                "comment": "Slocum Glider SkIO/UNCW Glider Pelagia",
+                "long_name": "Aanderaa Oxygen Optode 3835",
+                "calibration_date": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "platform": "platform",
+                "type": "instrument"
+            }
+        }
+    }
+}
