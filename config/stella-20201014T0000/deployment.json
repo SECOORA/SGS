@@ -2,8 +2,8 @@
     "glider": "stella",
     "trajectory_date": "20201014T0000",
     "attributes": {
-        "acknowledgement": "This work was supported by funding from NOAA/IOOS/SECOORA.",
-        "comment": "This deployment was part of the SECOORA Red Tide deployments of 2020",
+        "acknowledgement": "This work was supported by funding from the State of Florida and NOAA/IOOS/SECOORA",
+        "comment": "This deployment was part of the State of Florida Red Tide Research Initiiative",
         "contributor_email": "clembke@usf.edu",
         "contributor_name": "Chad Lembke",
         "contributor_role": "Principal Investigator",

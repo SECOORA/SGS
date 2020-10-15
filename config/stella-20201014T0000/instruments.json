@@ -34,7 +34,7 @@
                 "make_model": ""
             }
         },
-        "instrument_irradiance": {
+        "instrument_altimeter": {
             "type": "i4",
             "attributes": {
                 "serial_number": "",
@@ -48,7 +48,7 @@
                 "platform": "platform"
             }
         },
-        "instrument_radiance": {
+        "instrument_altitude": {
             "type": "i4",
             "attributes": {
                 "serial_number": "",
