@@ -34,17 +34,17 @@
         "support_role": "fiscal,fiscal,fiscal",
         "support_type": "ra,federal,federal",
         "title": "USF Stella Slocum Glider Dataset (October 2020)",
-        "wmo_id": 0000000
+        "wmo_id": 4802970
     },
     "variables": {
         "platform": {
             "attributes": {
                 "comment": "",
-                "id": 0000000,
+                "id": 4802970,
                 "instrument": "",
                 "long_name": "Slocum Glider USF Stella",
                 "type": "platform",
-                "wmo_id": 0000000
+                "wmo_id": 4802970
             }
         },
         "density": {
