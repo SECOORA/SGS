@@ -5,8 +5,8 @@
         "tsint": 10,
         "filter_z": 0,
         "filter_time": 10,
-        "filter_points": 5,
-        "filter_distance": 1
+        "filter_points": 3,
+        "filter_distance": 0
     },
     "attributes": {
         "acknowledgement": "This work was supported by funding from SECOORA (NOAA/NOPP).",
