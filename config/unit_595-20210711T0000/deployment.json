@@ -1,0 +1,86 @@
+{
+    "glider": "unit_595",
+    "trajectory_date": "20210711T0000",
+    "attributes": {
+        "acknowledgement": "This work was supported by funding from NOAA/IOOS/AOOS.",
+        "comment": "Shipboard observations of marine mammal distribution and habitat are expensive and logistically challenging to collect in Arctic waters.  Port facilities are minimal and access to appropriate vessels for spending extended periods of time at sea is extremely limited.  Autonomous platforms like gliders provide the capability to collect both oceanographic and passive acoustic data for far longer periods of time (weeks to months) and at significantly reduced costs than traditional shipboard or aerial surveys.  We have developed a system to record, detect, classify, and remotely report Arctic and sub-Arctic marine mammal calls in real time from Slocum ocean gliders based on the digital acoustic monitoring (DMON) instrument and the low-frequency detection and classification system (LFDCS).",
+        "contributor_email": "sldanielson@alaska.edu",
+        "contributor_name": "Seth Danielson",
+        "contributor_role": "Principal Investigator",
+        "contributor_url": "https://www.uaf.edu/cfos/people/faculty/detail/seth-danielson.php",
+        "creator_email": "hank.stats@alaska.edu",
+        "creator_name": "Hank Statscewich",
+        "creator_url": "https://uaf.edu/cfos/people/research-staff-and-post-docs/detail/hank-statscewich.php",
+        "institution": "The University of Alaska Fairbanks College of Fisheries and Ocean Science",
+        "ioos_regional_association": "aoos",
+        "keywords": "Oceans > Ocean Pressure > Water Pressure, Oceans > Ocean Temperature > Water Temperature, Oceans > Salinity/Density > Conductivity, Oceans > Salinity/Density > Density, Oceans > Salinity/Density > Salinity",
+        "keywords_vocabulary": "GCMD Science Keywords",
+        "license": "This data may be redistributed and used without restriction.",
+        "metadata_link": "",
+        "naming_authority": "edu.alaska",
+        "platform_tags": "portal:25,axds:portal:25:tag:Gliders",
+        "platform_type": "Slocum Glider",
+        "processing_level": "Dataset taken from glider native file format and is provided as is with no expressed or implied assurance of quality assurance or quality control.",
+        "project": "AOOS Regional Glider Component: Marine Mammals",
+        "publisher_email": "dmac@aoos.org",
+        "publisher_name": "AOOS Glider Observatory",
+        "publisher_url": "https://aoos.org",
+        "references": "",
+        "sea_name": "Chukchi Sea",
+        "source": "Observational data from a profiling glider",
+        "summary": "UAF G595 Glider deployment in the Chukchi Sea (July 2021)",
+        "support_email": "dmac@aoos.org,ioos.glider.data@noaa.gov,ioos.glider.data@noaa.gov",
+        "support_name": "aoos,ioos,noaa",
+        "support_role": "fiscal,fiscal,fiscal",
+        "support_type": "ra,federal,federal",
+        "title": "G595 Slocum Glider Dataset (July 2021)",
+        "wmo_id": ""
+    },
+    "variables": {
+        "platform": {
+            "attributes": {
+                "comment": "",
+                "id": "",
+                "instrument": "",
+                "long_name": "G595 Slocum Glider",
+                "type": "platform",
+                "wmo_id": ""
+            }
+        },
+        "density": {
+            "attributes": {
+                "instrument": "instrument_altimeter"
+            }
+        },
+        "depth": {
+            "attributes": {
+                "instrument": "instrument_altimeter"
+            }
+        },
+        "conductivity": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "pressure": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "salinity": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "temperature": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "m_altitude": {
+            "attributes": {
+                "instrument": "instrument_altitude"
+            }
+        }
+    }
+}
