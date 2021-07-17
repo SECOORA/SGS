@@ -1,0 +1,86 @@
+{
+    "glider": "sam",
+    "trajectory_date": "20210716T0000",
+    "attributes": {
+        "acknowledgement": "This work was supported by funding from NOAA/IOOS/SECOORA.",
+        "comment": "This deployment was part of the SECOORA Hurricane Glider deployments of 2021",
+        "contributor_email": "clembke@usf.edu",
+        "contributor_name": "Chad Lembke",
+        "contributor_role": "Principal Investigator",
+        "contributor_url": "https://www.marine.usf.edu",
+        "creator_email": "dmac@secoora.org",
+        "creator_name": "SECOORA",
+        "creator_url": "https://secoora.org",
+        "institution": "University of South Florida College of Marine Science Ocean Technology Group",
+        "ioos_regional_association": "secoora",
+        "keywords": "Oceans > Ocean Pressure > Water Pressure, Oceans > Ocean Temperature > Water Temperature, Oceans > Salinity/Density > Conductivity, Oceans > Salinity/Density > Density, Oceans > Salinity/Density > Salinity",
+        "keywords_vocabulary": "GCMD Science Keywords",
+        "license": "This data may be redistributed and used without restriction.",
+        "metadata_link": "",
+        "naming_authority": "edu.usf.marine",
+        "platform_tags": "portal:47,axds:portal:47:tag:Gliders",
+        "platform_type": "Slocum Glider",
+        "processing_level": "Dataset taken from glider native file format and is provided as is with no expressed or implied assurance of quality assurance or quality control.",
+        "project": "SECOORA Glider Observatory",
+        "publisher_email": "dmac@secoora.org",
+        "publisher_name": "SECOORA Glider Observatory",
+        "publisher_url": "https://secoora.org",
+        "references": "",
+        "sea_name": "North Atlantic Ocean",
+        "source": "Observational data from a profiling glider",
+        "summary": "USF Sam Glider deployment in the North Atlantic Ocean (July 2021)",
+        "support_email": "dmac@secoora.org,ioos.glider.data@noaa.gov,ioos.glider.data@noaa.gov",
+        "support_name": "secoora,ioos,noaa",
+        "support_role": "fiscal,fiscal,fiscal",
+        "support_type": "ra,federal,federal",
+        "title": "USF Sam Slocum Glider Dataset (July 2021)",
+        "wmo_id": 4801942
+    },
+    "variables": {
+        "platform": {
+            "attributes": {
+                "comment": "",
+                "id": 4801942,
+                "instrument": "",
+                "long_name": "Slocum Glider USF Sam",
+                "type": "platform",
+                "wmo_id": 4801942
+            }
+        },
+        "density": {
+            "attributes": {
+                "instrument": "instrument_altimeter"
+            }
+        },
+        "depth": {
+            "attributes": {
+                "instrument": "instrument_altimeter"
+            }
+        },
+        "conductivity": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "pressure": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "salinity": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "temperature": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "m_altitude": {
+            "attributes": {
+                "instrument": "instrument_altitude"
+            }
+        }
+    }
+}
