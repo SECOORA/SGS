@@ -3,7 +3,7 @@
     "trajectory_date": "20210716T0000",
     "attributes": {
         "acknowledgement": "This work was supported by funding from NOAA/IOOS/SECOORA.",
-        "comment": "This deployment was part of the SECOORA Hurricane Glider deployments of 2021",
+        "comment": "This is a 2021 SECOORA glider deployment.",
         "contributor_email": "clembke@usf.edu",
         "contributor_name": "Chad Lembke",
         "contributor_role": "Principal Investigator",
