@@ -1,23 +1,23 @@
 {
-    "glider": "bass",
-    "trajectory_date": "20211021T0000",
+    "glider": "angus",
+    "trajectory_date": "20211110T0000",
     "attributes": {
         "acknowledgement": "This work was supported by funding from NOAA/IOOS/SECOORA.",
         "comment": "This is a 2021 SECOORA glider deployment",
-        "contributor_email": "clembke@usf.edu",
-        "contributor_name": "Chad Lembke",
+        "contributor_email": "catherine.edwards@skio.uga.edu",
+        "contributor_name": "Catherine Edwards",
         "contributor_role": "Principal Investigator",
-        "contributor_url": "https://www.marine.usf.edu",
+        "contributor_url": "http://www.marsci.uga.edu/directory/catherine-r-edwards",
         "creator_email": "dmac@secoora.org",
         "creator_name": "SECOORA",
         "creator_url": "https://secoora.org",
-        "institution": "University of South Florida College of Marine Science Ocean Technology Group",
+        "institution": "Skidaway Institute of Oceanography",
         "ioos_regional_association": "secoora",
         "keywords": "Oceans > Ocean Pressure > Water Pressure, Oceans > Ocean Temperature > Water Temperature, Oceans > Salinity/Density > Conductivity, Oceans > Salinity/Density > Density, Oceans > Salinity/Density > Salinity",
         "keywords_vocabulary": "GCMD Science Keywords",
         "license": "This data may be redistributed and used without restriction.",
         "metadata_link": "",
-        "naming_authority": "edu.usf.marine",
+        "naming_authority": "edu.uga.skio",
         "platform_tags": "portal:47,axds:portal:47:tag:Gliders",
         "platform_type": "Slocum Glider",
         "processing_level": "Dataset taken from glider native file format and is provided as is with no expressed or implied assurance of quality assurance or quality control.",
@@ -28,23 +28,23 @@
         "references": "",
         "sea_name": "North Atlantic Ocean",
         "source": "Observational data from a profiling glider",
-        "summary": "USF Bass Glider deployment in the North Atlantic Ocean",
+        "summary": "SKIO Angus Glider deployment in the North Atlantic Ocean (Nov 2021)",
         "support_email": "dmac@secoora.org,ioos.glider.data@noaa.gov,ioos.glider.data@noaa.gov",
         "support_name": "secoora,ioos,noaa",
         "support_role": "fiscal,fiscal,fiscal",
         "support_type": "ra,federal,federal",
-        "title": "USF Bass Slocum Glider Dataset (October 2021)",
-        "wmo_id": 4801918
+        "title": "Angus Slocum Glider Dataset (Nov 2021)",
+        "wmo_id": 4802945
     },
     "variables": {
         "platform": {
             "attributes": {
                 "comment": "",
-                "id": 4801918,
+                "id": 4802945,
                 "instrument": "",
-                "long_name": "Slocum Glider USF Bass",
+                "long_name": "SKIO Slocum Glider Angus",
                 "type": "platform",
-                "wmo_id": 4801918
+                "wmo_id": 4802945
             }
         },
         "density": {
