@@ -18,7 +18,7 @@
         "license": "This data may be redistributed and used without restriction.",
         "metadata_link": "",
         "naming_authority": "edu.alaska",
-        "platform_tags": "portal:25,axds:portal:25:tag:Gliders",
+        "platform_tags": "portal:25,axds:portal:25:tag:Gliders,axds:dashboard:glider:EcoMetrics Dashboard",
         "platform_type": "Slocum Glider",
         "processing_level": "Dataset taken from glider native file format and is provided as is with no expressed or implied assurance of quality assurance or quality control.",
         "project": "AOOS Gliders in Support of Fisheries Management",
