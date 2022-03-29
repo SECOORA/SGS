@@ -1,6 +1,15 @@
 {
     "glider": "unit_507",
     "trajectory_date": "20220212T0000",
+    "extra_kwargs": {
+        "pseudograms": {
+            "enable": true,
+            "create_images": false,
+            "echosounderRange": 60.0,
+            "echosounderDirection": "up",
+            "echosounderRangeUnits": "meters"
+        }
+    },
     "attributes": {
         "acknowledgement": "This work was supported by funding from NOAA/IOOS/AOOS.",
         "comment": "",
@@ -80,6 +89,11 @@
         "m_altitude": {
             "attributes": {
                 "instrument": "instrument_altitude"
+            }
+        },
+        "acoustics": {
+            "attributes": {
+                "instrument": "instrument_acoustics"
             }
         }
     }
