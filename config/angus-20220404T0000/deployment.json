@@ -1,6 +1,6 @@
 {
     "glider": "angus",
-    "trajectory_date": "20220329T0000",
+    "trajectory_date": "20220404T0000",
     "attributes": {
         "acknowledgement": "This work was supported by funding from the National Science Foundation (NSF-S&AS), with data sharing via SECOORA (NOAA/NOPP).",
         "comment": "",
@@ -28,12 +28,12 @@
         "references": "",
         "sea_name": "North Atlantic Ocean",
         "source": "Observational data from a profiling glider",
-        "summary": "SKIO Angus Glider deployment in the North Atlantic Ocean (March 2022)",
+        "summary": "SKIO Angus Glider deployment in the North Atlantic Ocean (April 2022)",
         "support_email": "catherine.edwards@skio.uga.edu",
         "support_name": "nsf",
         "support_role": "fiscal",
         "support_type": "federal",
-        "title": "Angus Slocum Glider Dataset (March 2022)",
+        "title": "Angus Slocum Glider Dataset (April 2022)",
         "wmo_id": 4802945
     },
     "variables": {
