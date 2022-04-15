@@ -1,0 +1,94 @@
+{
+    "variables": {
+        "instrument_ctd": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "",
+                "make_model": "Seabird WEBB Glider CTD",
+                "comment": "unpumped CTD",
+                "long_name": "Seabird WEBB Glider Conductivity, Temperature, Depth Sensor",
+                "calibration_date": "",
+                "user_calibrated": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        },
+        "instrument_altimeter": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_gps": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_altitude": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument",
+                "make_model": ""
+            }
+        },
+        "instrument_irradiance": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "",
+                "make_model": "",
+                "comment": "Slocum Glider USF Jaialai",
+                "long_name": "",
+                "calibration_date": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        },
+        "instrument_radiance": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "",
+                "make_model": "",
+                "comment": "Slocum Glider USF Jaialai",
+                "long_name": "",
+                "calibration_date": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        },
+        "instrument_fluorometer": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "",
+                "make_model": "",
+                "comment": "Slocum Glider USF Jaialai",
+                "long_name": "",
+                "calibration_date": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        },
+        "instrument_dissolved_oxygen": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "",
+                "make_model": "",
+                "comment": "Slocum Glider USF Jaialai",
+                "long_name": "",
+                "calibration_date": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        }
+    }
+}
