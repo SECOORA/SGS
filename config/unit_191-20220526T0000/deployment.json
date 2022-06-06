@@ -1,6 +1,6 @@
 {
     "glider": "unit_191",
-    "trajectory_date": "20220601T0000",
+    "trajectory_date": "20220526T0000",
     "attributes": {
         "acknowledgement": "This work was supported by funding from NOAA/IOOS/AOOS.",
         "comment": "",
@@ -28,12 +28,12 @@
         "references": "",
         "sea_name": "North Pacific Ocean",
         "source": "Observational data from a profiling glider",
-        "summary": "UAF G191 Glider deployment in the North Pacific Ocean (June 2022)",
+        "summary": "UAF G191 Glider deployment in the North Pacific Ocean (May 2022)",
         "support_email": "dmac@aoos.org,ioos.glider.data@noaa.gov,ioos.glider.data@noaa.gov",
         "support_name": "aoos,ioos,noaa",
         "support_role": "fiscal,fiscal,fiscal",
         "support_type": "ra,federal,federal",
-        "title": "G191 Slocum Glider Dataset (June 2022)",
+        "title": "G191 Slocum Glider Dataset (May 2022)",
         "wmo_id": 4802945
     },
     "variables": {
