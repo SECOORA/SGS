@@ -81,6 +81,61 @@
             "attributes": {
                 "instrument": "instrument_altitude"
             }
+        },
+        "sci_rinkoII_DO": {
+            "shape": ["time"],
+            "type": "float",
+            "attributes": {
+                "units": "%",
+                "long_name": "Dissolved Oxygen Saturation",
+                "colorBarMinimum": 60.0,
+                "colorBarMaximum": 100.0,
+                "ioos_category": "Other",
+                "standard_name": "fractional_saturation_of_oxygen_in_sea_water",
+                "platform": "platform",
+                "observation_type": "measured",
+                "_FillValue": { "type": "float", "data": -9999.9}
+            }
+        },
+        "sci_bsipar_par": {
+            "shape": ["time"],
+            "type": "float",
+            "attributes": {
+                "units": "umol.m-2.s-1",
+                "long_name": "PAR",
+                "ioos_category": "Other",
+                "standard_name": "net_primary_mole_productivity_of_carbon_by_miscellaneous_phytoplankton",
+                "platform": "platform",
+                "observation_type": "measured",
+                "_FillValue": { "type": "float", "data": -9999.9}
+            }
+        },
+        "sci_flbb_bb_units": {
+            "shape": ["time"],
+            "type": "float",
+            "attributes": {
+                "units": "m-1.sr-1",
+                "long_name": "Optical Backscatter",
+                "colorBarMinimum": 0.0,
+                "colorBarMaximum": 0.002,
+                "ioos_category": "Other",
+                "platform": "platform",
+                "observation_type": "measured",
+                "_FillValue": { "type": "float", "data": -9999.9}
+            }
+        },
+        "sci_flbb_chlor_units": {
+            "shape": ["time"],
+            "type": "double",
+            "attributes": {
+                "units": "mg.m-3",
+                "long_name": "Chlorophyll",
+                "ioos_category": "Other",
+                "standard_name": "concentration_of_chlorophyll_in_sea_water",
+                "platform": "platform",
+                "observation_type": "measured",
+                "_FillValue": { "type": "double", "data": -9999.9}
+            }
         }
     }
 }
