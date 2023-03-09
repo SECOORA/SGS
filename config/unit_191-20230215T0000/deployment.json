@@ -104,7 +104,7 @@
                 "units": "umol.m-2.s-1",
                 "long_name": "Photosynthetically Active Radiation (PAR)",
                 "ioos_category": "Other",
-                "standard_name": "net_primary_mole_productivity_of_carbon_by_miscellaneous_phytoplankton",
+                "standard_name": "downwelling_photosynthetic_photon_spherical_irradiance_in_sea_water",
                 "platform": "platform",
                 "observation_type": "measured",
                 "_FillValue": { "type": "float", "data": -9999.9}
