@@ -3,7 +3,7 @@
     "trajectory_date": "20230215T0000",
     "attributes": {
         "acknowledgement": "This work was supported by funding from NOAA/IOOS/AOOS.",
-        "comment": "",
+        "comment": "UAF G191 Glider deployment in the North Pacific Ocean (February 2023)",
         "contributor_email": "sldanielson@alaska.edu",
         "contributor_name": "Seth Danielson",
         "contributor_role": "Principal Investigator",
@@ -28,7 +28,7 @@
         "references": "",
         "sea_name": "North Pacific Ocean",
         "source": "Observational data from a profiling glider",
-        "summary": "UAF G191 Glider deployment in the North Pacific Ocean (February 2023)",
+        "summary": "This dataset contains measurements of temperature, conductivity, salinity, density, chlorophyll-a and CDOM fluorescence, Photosynthetically Active Radiation (PAR), Dissolved Oxygen and reception time and location from 180 kHz transmitters collected from a Teledyne Slocum autonomous underwater glider dataset gathered by University of Alaska Fairbanks as part of the Alaska Region Glider Missions Supporting an Ecosystem Approach to Fisheries Management project, funded by NOAA through the Integrated Ocean Observing System (IOOS) and the Alaska Ocean Observing System. The North Pacific Fisheries Management Council (NPFMC) establishes Alaska as a world leader in the Ecosystem Approach to Fisheries Management (EAFM) for maintaining sustainable fisheries (Zador et al., 2017). EAFM requires deep understanding of commercially and non-commercially important species’ biology, population status, and trends in addition to a holistic understanding of environmental drivers, trophic linkages, and many subtle complexities of ecosystem dynamics. A successful implementation of EAFM is based on timely information that guides an informed approach to setting fisheries harvest levels in the context of environmental conditions. Lack of timely ecosystem data is identified as a critical gap in the EAFM process. The purpose of this project is to apply gliders to the task of developing near-real-time indices of key physical and biological parameters that will inform the NPFMC decision-making process, and other marine and fisheries management related research activities.",
         "support_email": "dmac@aoos.org,ioos.glider.data@noaa.gov,ioos.glider.data@noaa.gov",
         "support_name": "aoos,ioos,noaa",
         "support_role": "fiscal,fiscal,fiscal",

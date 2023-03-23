@@ -1,9 +1,20 @@
 {
-    "glider": "template",
+    "glider": "[deployment]",
     "trajectory_date": "YYYYMMDDTHHII",
+    "extra_kwargs": {
+        "pseudograms": {
+            "enable_nc": false,
+            "enable_ascii": false,
+            "enable_image": false,
+            "echosounderRange": 60.0,
+            "echosounderDirection": "up",
+            "echosounderRangeUnits": "meters"
+        }
+    },
     "attributes": {
         "acknowledgement": "This work was supported by funding from NOAA/IOOS/SECOORA.",
-        "comment": "",
+        "comment": "[deployment] Glider deployment in the [sea name] (mmmmm YYYY)",
+        "contributor_email": "sldanielson@alaska.edu",
         "contributor_name": "",
         "contributor_role": "Principal Investigator",
         "contributor_url": "",
@@ -16,7 +27,8 @@
         "keywords_vocabulary": "GCMD Science Keywords",
         "license": "This data may be redistributed and used without restriction.",
         "metadata_link": "",
-        "naming_authority": "",
+        "naming_authority": "org.secoora",
+        "platform_tags": "portal:XX,axds:portal:XX:tag:Gliders",
         "platform_type": "Slocum Glider",
         "processing_level": "Dataset taken from glider native file format and is provided as is with no expressed or implied assurance of quality assurance or quality control.",
         "project": "SECOORA Glider Observatory",
@@ -26,12 +38,12 @@
         "references": "",
         "sea_name": "North Atlantic Ocean",
         "source": "Observational data from a profiling glider",
-        "summary": "",
+        "summary": "This dataset contains measurements of ... collected from a Teledyne Slocum autonomous underwater glider dataset gathered by ... as part of the ... project, funded by ... through ... and ....",
         "support_email": "dmac@secoora.org,ioos.glider.data@noaa.gov,ioos.glider.data@noaa.gov",
         "support_name": "secoora,ioos,noaa",
         "support_role": "fiscal,fiscal,fiscal",
         "support_type": "ra,federal,federal",
-        "title": "",
+        "title": "[deployment] Slocum Glider Dataset (mmmmmm YYYY)",
         "wmo_id": 0000000
     },
     "variables": {
