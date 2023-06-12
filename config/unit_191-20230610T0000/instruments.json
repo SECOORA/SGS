@@ -1,0 +1,94 @@
+{
+    "variables": {
+        "instrument_ctd": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "712-9407",
+                "make_model": "Seabird Slocum Glider Payload CTD",
+                "comment": "Slocum Glider UAF G191 -- pumped CTD",
+                "long_name": "Seabird WEBB pumped glider conductivity, temperature, depth sensor",
+                "calibration_date": "2017",
+                "user_calibrated": "",
+                "factory_calibrated": "y",
+                "calibration_report": "",
+                "platform": "platform",
+                "type": "instrument"
+            }
+        },
+        "instrument_altimeter": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_gps": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_altitude": {
+            "type": "i4",
+            "attributes": {
+                "make_model": "",
+                "type": "instrument"
+            }
+        },
+        "instrument_irradiance": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "",
+                "make_model": "",
+                "comment": "",
+                "long_name": "",
+                "calibration_date": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "platform": "platform",
+                "type": "instrument"
+            }
+        },
+        "instrument_radiance": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "",
+                "make_model": "",
+                "comment": "",
+                "long_name": "",
+                "calibration_date": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "platform": "platform",
+                "type": "instrument"
+            }
+        },
+        "instrument_fluorometer": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "3933",
+                "make_model": "Wetlabs FLNTUSLC",
+                "comment": "Slocum Glider UAF G191",
+                "long_name": "Wetlabs FLNTUSLC Fluorometer",
+                "calibration_date": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "platform": "platform",
+                "type": "instrument"
+            }
+        },
+        "instrument_dissolved_oxygen": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "",
+                "make_model": "",
+                "comment": "",
+                "long_name": "",
+                "calibration_date": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "platform": "platform",
+                "type": "instrument"
+            }
+        }
+    }
+}
