@@ -117,7 +117,7 @@
                 "instrument": "instrument_acoustics"
             }
         },
-        "pseudogram_sv": {
+        "echogram_sv": {
             "attributes": {
                 "instrument": "instrument_acoustics"
             }

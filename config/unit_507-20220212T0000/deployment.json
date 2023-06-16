@@ -2,13 +2,17 @@
     "glider": "unit_507",
     "trajectory_date": "20220212T0000",
     "extra_kwargs": {
-        "pseudograms": {
+        "echograms": {
             "enable_nc": true,
             "enable_ascii": true,
             "enable_image": false,
-            "echosounderRange": 60.0,
-            "echosounderDirection": "up",
-            "echosounderRangeUnits": "meters"
+            "plot_type": "profile",
+            "plot_cmap": "ek80",
+            "svb_thresholds": [-10,-20,-25,-30,-35,-45,-55],
+            "svb_limits": [-10.0, -55.0],
+            "echogram_range_bins": 20,
+            "echogram_range": -60.0,
+            "echogram_range_units": "meters"
         }
     },
     "attributes": {
@@ -127,7 +131,7 @@
                 "instrument": "instrument_acoustics"
             }
         },
-        "pseudogram_sv": {
+        "echogram_sv": {
             "attributes": {
                 "instrument": "instrument_acoustics"
             }
