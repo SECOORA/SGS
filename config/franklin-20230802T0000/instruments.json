@@ -7,7 +7,7 @@
                 "make_model": "Seabird Slocum Glider Payload CTD",
                 "comment": "Slocum Glider SkIO Franklin -- pumped CTD",
                 "long_name": "Seabird WEBB pumped glider conductivity, temperature, depth sensor",
-                "calibration_date": "2019",
+                "calibration_date": "2023",
                 "user_calibrated": "",
                 "factory_calibrated": "y",
                 "calibration_report": "",
