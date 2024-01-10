@@ -49,7 +49,7 @@
         },
         "density": {
             "attributes": {
-                "instrument": "instrument_altimeter"
+                "instrument": "instrument_ctd"
             }
         },
         "depth": {
