@@ -1,0 +1,52 @@
+{
+    "variables": {
+        "instrument_ctd": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "210313",
+                "make_model": "RBR CTD",
+                "comment": "RBR unpumped CTD",
+                "long_name": "unpumped RBR Conductivity Temperature and Depth Sensor.",
+                "calibration_date": "2022",
+                "user_calibrated": "",
+                "factory_calibrated": "y",
+                "calibration_report": "",
+                "platform": "platform",
+                "type": "instrument"
+            }
+        },
+        "instrument_altimeter": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_gps": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_altitude": {
+            "type": "i4",
+            "attributes": {
+                "make_model": "",
+                "type": "instrument"
+            }
+        },
+        "instrument_fluorometer": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "7319",
+                "make_model": "Wetlabs FLBBCD",
+                "comment": "Slocum Glider SkIO Angus",
+                "long_name": "Wetlabs FLBBCD Fluorometer",
+                "calibration_date": "2022",
+                "factory_calibrated": "y",
+                "calibration_report": "",
+                "platform": "platform",
+                "type": "instrument"
+            }
+        }
+    }
+}
