@@ -2,7 +2,7 @@
     "glider": "angus",
     "trajectory_date": "20240111T0000",
     "attributes": {
-        "acknowledgement": "This work was supported by the Tides Foundation.",
+        "acknowledgement": "This work was supported by funding from NOAA/IOOS/SECOORA and the Tides Foundation.",
         "comment": "Deployment managed by the Glider Observation and Autonomy Lab (GOAL), Skidaway Institute of Oceanography, University of Georgia",
         "contributor_email": "catherine.edwards@skio.uga.edu,emgutbrod@seoe.sc.edu",
         "contributor_name": "Catherine Edwards,Erin Meyer Gutbrod",
