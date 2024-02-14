@@ -28,12 +28,12 @@
         "references": "",
         "sea_name": "North Atlantic Ocean",
         "source": "Observational data from a profiling glider",
-        "summary": "SKIO Angus Glider deployment in the North Atlantic Ocean (January 2024)",
+        "summary": "SKIO Angus Glider deployment in the North Atlantic Ocean (February 2024)",
         "support_email": "catherine.edwards@skio.uga.edu",
         "support_name": "Tides Foundation",
         "support_role": "fiscal",
         "support_type": "private",
-        "title": "Angus Slocum Glider Dataset (January 2024)",
+        "title": "Angus Slocum Glider Dataset (February 2024)",
         "wmo_id": 4802945
     },
     "variables": {
