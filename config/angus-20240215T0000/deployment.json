@@ -1,0 +1,86 @@
+{
+    "glider": "angus",
+    "trajectory_date": "20240215T0000",
+    "attributes": {
+        "acknowledgement": "This work was supported by funding from NOAA/IOOS/SECOORA and the Tides Foundation.",
+        "comment": "Deployment managed by the Glider Observation and Autonomy Lab (GOAL), Skidaway Institute of Oceanography, University of Georgia",
+        "contributor_email": "catherine.edwards@skio.uga.edu,emgutbrod@seoe.sc.edu",
+        "contributor_name": "Catherine Edwards,Erin Meyer Gutbrod",
+        "contributor_role": "Principal Investigator,Principal Investigator",
+        "contributor_url": "https://www.marsci.uga.edu/directory/people/catherine-r-edwards,https://meyer-gutbrod.weebly.com",
+        "creator_email": "dmac@secoora.org",
+        "creator_name": "SECOORA",
+        "creator_url": "https://secoora.org",
+        "institution": "Skidaway Institute of Oceanography,University of South Carolina",
+        "ioos_regional_association": "secoora",
+        "keywords": "Oceans > Ocean Pressure > Water Pressure, Oceans > Ocean Temperature > Water Temperature, Oceans > Salinity/Density > Conductivity, Oceans > Salinity/Density > Density, Oceans > Salinity/Density > Salinity",
+        "keywords_vocabulary": "GCMD Science Keywords",
+        "license": "This data may be redistributed and used without restriction.",
+        "metadata_link": "",
+        "naming_authority": "edu.uga.skio",
+        "platform_tags": "portal:47,axds:portal:47:tag:Gliders",
+        "platform_type": "Slocum Glider",
+        "processing_level": "Dataset taken from glider native file format and is provided as is with no expressed or implied assurance of quality assurance or quality control.",
+        "project": "Right Whale Monitoring",
+        "publisher_email": "dmac@secoora.org",
+        "publisher_name": "SECOORA Glider Observatory",
+        "publisher_url": "https://secoora.org",
+        "references": "",
+        "sea_name": "North Atlantic Ocean",
+        "source": "Observational data from a profiling glider",
+        "summary": "SKIO Angus Glider deployment in the North Atlantic Ocean (January 2024)",
+        "support_email": "catherine.edwards@skio.uga.edu",
+        "support_name": "Tides Foundation",
+        "support_role": "fiscal",
+        "support_type": "private",
+        "title": "Angus Slocum Glider Dataset (January 2024)",
+        "wmo_id": 4802945
+    },
+    "variables": {
+        "platform": {
+            "attributes": {
+                "comment": "",
+                "id": 4802945,
+                "instrument": "",
+                "long_name": "SKIO Slocum Glider Angus",
+                "type": "platform",
+                "wmo_id": 4802945
+            }
+        },
+        "density": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "depth": {
+            "attributes": {
+                "instrument": "instrument_altimeter"
+            }
+        },
+        "conductivity": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "pressure": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "salinity": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "temperature": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "m_altitude": {
+            "attributes": {
+                "instrument": "instrument_altitude"
+            }
+        }
+    }
+}
