@@ -1,0 +1,126 @@
+{
+    "glider": "unit_191",
+    "trajectory_date": "20240309T1200",
+    "attributes": {
+        "acknowledgement": "This work was supported by funding from NOAA/IOOS/AOOS.",
+        "comment": "UAF G191 Glider deployment in the North Pacific Ocean (March 2024)",
+        "contributor_email": "sldanielson@alaska.edu",
+        "contributor_name": "Seth Danielson",
+        "contributor_role": "Principal Investigator",
+        "contributor_url": "https://www.uaf.edu/cfos/people/faculty/detail/seth-danielson.php",
+        "creator_email": "hank.stats@alaska.edu",
+        "creator_name": "Hank Statscewich",
+        "creator_url": "https://uaf.edu/cfos/people/research-staff-and-post-docs/detail/hank-statscewich.php",
+        "institution": "The University of Alaska Fairbanks College of Fisheries and Ocean Science",
+        "ioos_regional_association": "aoos",
+        "keywords": "Oceans > Ocean Pressure > Water Pressure, Oceans > Ocean Temperature > Water Temperature, Oceans > Salinity/Density > Conductivity, Oceans > Salinity/Density > Density, Oceans > Salinity/Density > Salinity",
+        "keywords_vocabulary": "GCMD Science Keywords",
+        "license": "This data may be redistributed and used without restriction.",
+        "metadata_link": "",
+        "naming_authority": "edu.alaska",
+        "platform_tags": "portal:25,axds:portal:25:tag:Gliders",
+        "platform_type": "Slocum Glider",
+        "processing_level": "Dataset taken from glider native file format and is provided as is with no expressed or implied assurance of quality assurance or quality control.",
+        "project": "AOOS Gliders in Support of Fisheries Management",
+        "publisher_email": "dmac@aoos.org",
+        "publisher_name": "AOOS Glider Observatory",
+        "publisher_url": "https://aoos.org",
+        "references": "",
+        "sea_name": "North Pacific Ocean",
+        "source": "Observational data from a profiling glider",
+        "summary": "UAF G191 Glider deployment in the North Pacific Ocean (March 2024)",
+        "support_email": "dmac@aoos.org,ioos.glider.data@noaa.gov,ioos.glider.data@noaa.gov",
+        "support_name": "aoos,ioos,noaa",
+        "support_role": "fiscal,fiscal,fiscal",
+        "support_type": "ra,federal,federal",
+        "title": "G191 Slocum Glider Dataset (March 2024)",
+        "wmo_id": 4902987
+    },
+    "variables": {
+        "platform": {
+            "attributes": {
+                "comment": "",
+                "id": 4902987,
+                "instrument": "",
+                "long_name": "G191 Slocum Glider",
+                "type": "platform",
+                "wmo_id": 4902987
+            }
+        },
+        "density": {
+            "attributes": {
+                "instrument": "instrument_altimeter"
+            }
+        },
+        "depth": {
+            "attributes": {
+                "instrument": "instrument_altimeter"
+            }
+        },
+        "conductivity": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "pressure": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "salinity": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "temperature": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "m_altitude": {
+            "attributes": {
+                "instrument": "instrument_altitude"
+            }
+        },
+        "sci_bsipar_par": {
+            "shape": ["time"],
+            "type": "float",
+            "attributes": {
+                "units": "umol.m-2.s-1",
+                "long_name": "Photosynthetically Active Radiation (PAR)",
+                "ioos_category": "Other",
+                "standard_name": "downwelling_photosynthetic_photon_spherical_irradiance_in_sea_water",
+                "platform": "platform",
+                "observation_type": "measured",
+                "_FillValue": { "type": "float", "data": -9999.9}
+            }
+        },
+        "sci_flbb_bb_units": {
+            "shape": ["time"],
+            "type": "float",
+            "attributes": {
+                "units": "m-1.sr-1",
+                "long_name": "Optical Backscatter",
+                "colorBarMinimum": 0.0,
+                "colorBarMaximum": 0.002,
+                "ioos_category": "Other",
+                "platform": "platform",
+                "observation_type": "measured",
+                "_FillValue": { "type": "float", "data": -9999.9}
+            }
+        },
+        "sci_flbb_chlor_units": {
+            "shape": ["time"],
+            "type": "double",
+            "attributes": {
+                "units": "mg.m-3",
+                "long_name": "Chlorophyll a",
+                "ioos_category": "Other",
+                "standard_name": "concentration_of_chlorophyll_in_sea_water",
+                "platform": "platform",
+                "observation_type": "measured",
+                "_FillValue": { "type": "double", "data": -9999.9}
+            }
+        }
+    }
+}
