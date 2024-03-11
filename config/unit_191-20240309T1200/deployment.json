@@ -82,21 +82,6 @@
                 "instrument": "instrument_altitude"
             }
         },
-        "sci_rinkoII_DO": {
-            "shape": ["time"],
-            "type": "float",
-            "attributes": {
-                "units": "%",
-                "long_name": "Dissolved Oxygen Saturation",
-                "colorBarMinimum": 60.0,
-                "colorBarMaximum": 100.0,
-                "ioos_category": "Other",
-                "standard_name": "fractional_saturation_of_oxygen_in_sea_water",
-                "platform": "platform",
-                "observation_type": "measured",
-                "_FillValue": { "type": "float", "data": -9999.9}
-            }
-        },
         "sci_bsipar_par": {
             "shape": ["time"],
             "type": "float",
