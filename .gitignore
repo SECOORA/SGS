@@ -2,3 +2,6 @@ output/*
 data/*
 !.gitkeep
 run/*
+
+# Vim
+*.swp
