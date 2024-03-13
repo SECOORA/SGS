@@ -104,43 +104,62 @@
             }
         },
         "m_battery": {
+            "attributes": {
+                "units": "volts",
+                "long_name": "Battery Voltage"
+            }
         },
         "m_battpos": {
+            "attributes": {
+                "units": "in"
+            }
         },
         "m_coulomb_amphr_total": {
+            "attributes": {
+                "units": "amp-hours"
+            }
         },
         "m_heading": {
         },
         "m_leakdetect_voltage": {
+            "attributes": {
+                "units": "volts"
+            }
         },
         "sci_echodroid_sv": {
             "attributes": {
-                "instrument": "instrument_acoustics"
+                "instrument": "instrument_acoustics",
+                "units": "db"
             }
         },
         "sci_echodroid_propocc": {
             "attributes": {
-                "instrument": "instrument_acoustics"
+                "instrument": "instrument_acoustics",
+                "units": "1"
             }
         },
         "sci_echodroid_aggindex": {
             "attributes": {
-                "instrument": "instrument_acoustics"
+                "instrument": "instrument_acoustics",
+                "units": "m-1"
             }
         },
         "sci_echodroid_sa": {
             "attributes": {
-                "instrument": "instrument_acoustics"
+                "instrument": "instrument_acoustics",
+                "units": "db"
             }
         },
         "sci_echodroid_ctrmass": {
             "attributes": {
-                "instrument": "instrument_acoustics"
+                "instrument": "instrument_acoustics",
+                "units": "m"
             }
         },
         "sci_echodroid_inertia": {
             "attributes": {
-                "instrument": "instrument_acoustics"
+                "instrument": "instrument_acoustics",
+                "units": "m-2"
             }
         },
         "sci_echodroid_eqarea": {
@@ -150,7 +169,27 @@
         },
         "sci_rinkoii_do": {
             "attributes": {
-                "instrument": "instrument_dissolved_oxygen"
+                "instrument": "instrument_dissolved_oxygen",
+                "long_name": "Dissolved Oxygen Concentration",
+                "units": "%"
+            }
+        },
+        "sci_flbbcd_bb_units": {
+            "attributes": {
+                "instrument": "instrument_fluorometer",
+                "units": "1"
+            }
+        },
+        "sci_flbbcd_cdom_units": {
+            "attributes": {
+                "instrument": "instrument_fluorometer",
+                "units": "1e-9"
+            }
+        },
+        "sci_flbbcd_chlor_units": {
+            "attributes": {
+                "instrument": "instrument_fluorometer",
+                "units": "ug L-1"
             }
         }
     }

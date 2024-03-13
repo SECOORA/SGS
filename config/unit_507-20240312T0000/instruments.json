@@ -87,7 +87,10 @@
                 "factory_calibrated": "y",
                 "calibration_report": "n/a",
                 "platform": "platform",
-                "type": "instrument"
+                "references": "https://www.jfe-advantech.co.jp/eng/assets/img/products/ocean-rinko/RINKO_Series(E)_201608.pdf",
+                "type": "instrument",
+                "resolution": 0.04,
+                "accuracy": 2
             }
         },
         "instrument_acoustics": {
