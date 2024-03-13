@@ -1,16 +1,6 @@
 {
     "glider": "unit_507",
     "trajectory_date": "20230321T0000",
-    "extra_kwargs": {
-        "pseudograms": {
-            "enable_nc": true,
-            "enable_ascii": true,
-            "enable_image": false,
-            "echosounderRange": 60.0,
-            "echosounderDirection": "up",
-            "echosounderRangeUnits": "meters"
-        }
-    },
     "attributes": {
         "acknowledgement": "This work was supported by funding from NOAA/IOOS/AOOS.",
         "comment": "UAF G507 Glider deployment in the North Pacific Ocean (Mar 2024)",
