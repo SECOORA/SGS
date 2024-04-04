@@ -81,6 +81,44 @@
             "attributes": {
                 "instrument": "instrument_altitude"
             }
+        },
+        "sci_flbbcd_bb_units": {
+            "attributes": {
+                "instrument": "instrument_fluorometer"
+            }
+        },
+        "sci_flbbcd_cdom_units": {
+            "attributes": {
+                "instrument": "instrument_fluorometer"
+            }
+        },
+        "sci_flbbcd_chlor_units": {
+            "attributes": {
+                "instrument": "instrument_fluorometer"
+            }
+        },
+        "sci_ocr507i_irrad1": {
+            "attributes": {
+                "instrument": "instrument_irradiance",
+                "units": "uW/cm^2/nm",
+                "long_name": "Spectral Irradiance",
+                "comment": "The Spectral Irradiance sensor measures the amount of radiation (light energy) per unit area that reaches a surface. Radiation is measured and reported separately for a series of wavelength bands, each between 10-20 nm wide."
+            }
+        },
+        "sci_ocr507r_rad1": {
+            "attributes": {
+                "instrument": "instrument_radiance",
+                "units": "uW/cm^2/nm",
+                "long_name": "Spectral Radiance"
+            }
+        },
+        "sci_oxy3835_oxygen": {
+            "attributes": {
+                "instrument": "instrument_dissolved_oxygen",
+                "units": "1",
+                "long_name": "Oxygen Saturation",
+                "standard_name": "fractional_saturation_of_oxygen_in_sea_water"
+            }
         }
     }
 }
