@@ -2,7 +2,7 @@
     "glider": "unit_1091",
     "trajectory_date": "20240723T0000",
     "attributes": {
-        "acknowledgement": "This work was supported by funding from SECOORA (NOAA/NOPP).",
+        "acknowledgement": "This is a DRSA Hurricane Glider mission.",
         "comment": "This deployment was part of the SECOORA Hurricane Glider deployments of 2024",
         "contributor_email": "catherine.edwards@skio.uga.edu",
         "contributor_name": "Catherine Edwards",
