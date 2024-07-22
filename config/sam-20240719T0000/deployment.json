@@ -3,7 +3,7 @@
     "trajectory_date": "20240719T0000",
     "attributes": {
         "acknowledgement": "This work was supported by funding from NOAA/IOOS/SECOORA.",
-        "comment": "This is a 2022 SECOORA glider deployment.",
+        "comment": "This is a 2024 SECOORA glider deployment.",
         "contributor_email": "clembke@usf.edu",
         "contributor_name": "Chad Lembke",
         "contributor_role": "Principal Investigator",
@@ -28,12 +28,12 @@
         "references": "",
         "sea_name": "North Atlantic Ocean",
         "source": "Observational data from a profiling glider",
-        "summary": "USF Sam Glider deployment in the North Atlantic Ocean (February 2023)",
+        "summary": "USF Sam Glider deployment in the North Atlantic Ocean (July 2024)",
         "support_email": "dmac@secoora.org,ioos.glider.data@noaa.gov,ioos.glider.data@noaa.gov",
         "support_name": "secoora,ioos,noaa",
         "support_role": "fiscal,fiscal,fiscal",
         "support_type": "ra,federal,federal",
-        "title": "USF Sam Slocum Glider Dataset (February 2023)",
+        "title": "USF Sam Slocum Glider Dataset (July 2024)",
         "wmo_id": 4801942
     },
     "variables": {
