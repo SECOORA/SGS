@@ -3,11 +3,11 @@
         "instrument_ctd": {
             "type": "i4",
             "attributes": {
-                "serial_number": "214032",
+                "serial_number": "214031",
                 "make_model": "RBR Logger Glider Payload unpumped CTD",
-                "comment": "Slocum Glider UAF G1152 -- upumped CTD",
+                "comment": "Slocum Glider UAF G1151 -- upumped CTD",
                 "long_name": "RBR WEBB unpumped glider conductivity, temperature, depth sensor",
-                "calibration_date": "2023",
+                "calibration_date": "04/27/2023",
                 "factory_calibrated": "y",
                 "platform": "platform",
                 "type": "instrument"
@@ -48,9 +48,9 @@
         "instrument_fluorometer": {
             "type": "i4",
             "attributes": {
-                "serial_number": "8449",
+                "serial_number": "8448",
                 "make_model": "Wetlabs FLBBCD",
-                "comment": "Slocum Glider UAF G1152",
+                "comment": "Slocum Glider UAF G1151",
                 "long_name": "Wetlabs FLBBCD Fluorometer",
                 "platform": "platform",
                 "type": "instrument"
@@ -59,7 +59,7 @@
         "instrument_dissolved_oxygen": {
             "type": "i4",
             "attributes": {
-                "serial_number": "0073",
+                "serial_number": "0074",
                 "make_model": "JFE ALEC CO. RINKO-II",
                 "comment": "Rinko II is a digital output version with a fast-response optical DO sensor.",
                 "long_name": "JFE ALEC CO. RINKO-II Dissolved Oxygen Sensor",

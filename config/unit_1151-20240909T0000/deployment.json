@@ -1,6 +1,6 @@
 {
     "glider": "unit_1151",
-    "trajectory_date": "20240910T0000",
+    "trajectory_date": "20240909T0000",
     "attributes": {
         "acknowledgement": "This work was supported by funding from NOAA/IOOS/AOOS.",
         "comment": "",
@@ -12,7 +12,7 @@
         "creator_name": "Hank Statscewich",
         "creator_url": "https://uaf.edu/cfos/people/research-staff-and-post-docs/detail/hank-statscewich.php",
         "institution": "The University of Alaska Fairbanks College of Fisheries and Ocean Science",
-        "ioos_regional_association": "aoos",
+        "ioos_regional_association": "AOOS",
         "keywords": "Oceans > Ocean Pressure > Water Pressure, Oceans > Ocean Temperature > Water Temperature, Oceans > Salinity/Density > Conductivity, Oceans > Salinity/Density > Density, Oceans > Salinity/Density > Salinity",
         "keywords_vocabulary": "GCMD Science Keywords",
         "license": "This data may be redistributed and used without restriction.",
@@ -32,19 +32,19 @@
         "support_name": "aoos,ioos,noaa",
         "support_role": "fiscal,fiscal,fiscal",
         "support_type": "ra,federal,federal",
-        "title": "G1151 Slocum Glider Dataset (September 2024)",
-        "wmo_id": "6801538",
+        "title": "G1151 Blinky September 2024",
+        "wmo_id": "6801537",
         "platform_tags": "portal:25,axds:portal:25:tag:Gliders"
     },
     "variables": {
         "platform": {
             "attributes": {
                 "comment": "",
-                "id": 6801538,
+                "id": 6801537,
                 "instrument": "",
                 "long_name": "G1151 Slocum Glider",
                 "type": "platform",
-                "wmo_id": 6801538
+                "wmo_id": 6801537
             }
         },
         "conductivity": {
