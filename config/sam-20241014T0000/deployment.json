@@ -3,7 +3,7 @@
     "trajectory_date": "20241014T0000",
     "attributes": {
         "acknowledgement": "This work was supported by funding from NOAA/IOOS/SECOORA.",
-        "comment": "This is a 2024 SECOORA glider deployment.",
+        "comment": "This is a 2024 SECOORA hurricane glider deployment.",
         "contributor_email": "clembke@usf.edu",
         "contributor_name": "Chad Lembke",
         "contributor_role": "Principal Investigator",
@@ -47,32 +47,7 @@
                 "wmo_id": 4801942
             }
         },
-        "density": {
-            "attributes": {
-                "instrument": "instrument_altimeter"
-            }
-        },
-        "depth": {
-            "attributes": {
-                "instrument": "instrument_altimeter"
-            }
-        },
         "conductivity": {
-            "attributes": {
-                "instrument": "instrument_ctd"
-            }
-        },
-        "pressure": {
-            "attributes": {
-                "instrument": "instrument_ctd"
-            }
-        },
-        "salinity": {
-            "attributes": {
-                "instrument": "instrument_ctd"
-            }
-        },
-        "temperature": {
             "attributes": {
                 "instrument": "instrument_ctd"
             }
@@ -80,6 +55,41 @@
         "m_altitude": {
             "attributes": {
                 "instrument": "instrument_altitude"
+            }
+        },
+        "pressure": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "sci_flbbcd_bb_units": {
+            "attributes": {
+                "instrument": "instrument_fluorometer",
+                "units": "1"
+            }
+        },
+        "sci_flbbcd_cdom_units": {
+            "attributes": {
+                "instrument": "instrument_fluorometer",
+                "units": "1e-9"
+            }
+        },
+        "sci_flbbcd_chlor_units": {
+            "attributes": {
+                "instrument": "instrument_fluorometer",
+                "units": "ug L-1"
+            }
+        },
+        "sci_rinkoii_do": {
+            "attributes": {
+                "instrument": "instrument_dissolved_oxygen",
+                "long_name": "Dissolved Oxygen Concentration",
+                "units": "%"
+            }
+        },
+        "temperature": {
+            "attributes": {
+                "instrument": "instrument_ctd"
             }
         }
     }
