@@ -8,6 +8,7 @@
                 "comment": "unpumped CTD",
                 "long_name": "Seabird WEBB Glider Conductivity, Temperature, Depth Sensor",
                 "calibration_date": "2022-06-09",
+                "user_calibrated": "2022-06-09",
                 "factory_calibrated": "2022-06-09",
                 "calibration_report": "",
                 "type": "instrument",
