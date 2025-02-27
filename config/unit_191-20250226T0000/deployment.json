@@ -34,17 +34,17 @@
         "support_role": "fiscal,fiscal,fiscal",
         "support_type": "ra,federal,federal",
         "title": "G191 Slocum Glider Dataset (February 2025)",
-        "wmo_id": 4902987
+        "wmo_id": 4802987
     },
     "variables": {
         "platform": {
             "attributes": {
                 "comment": "",
-                "id": 4902987,
+                "id": 4802987,
                 "instrument": "",
                 "long_name": "G191 Slocum Glider",
                 "type": "platform",
-                "wmo_id": 4902987
+                "wmo_id": 4802987
             }
         },
         "density": {
