@@ -1,0 +1,95 @@
+{
+    "variables": {
+        "instrument_ctd": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "0126",
+                "make_model": "Seabird WEBB Glider CTD",
+                "comment": "unpumped CTD",
+                "long_name": "Seabird WEBB Glider Conductivity, Temperature, Depth Sensor",
+                "calibration_date": "2022-06-09",
+                "factory_calibrated": "2022-06-09",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        },
+            "instrument_altimeter": {
+                "type": "i4",
+                "attributes": {
+                    "type": "instrument"
+                }
+            },
+        "instrument_gps": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_altitude": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument",
+                "make_model": "PNI TCM3"
+            }
+        },
+        "instrument_irradiance": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "0191",
+                "make_model": "Satlantic OCR507 ICSW",
+                "comment": "Slocum Glider USF Bass",
+                "long_name": "Satlantic OCR507 ICSW Irradiance Sensor",
+                "manual": "https://www.seabird.com/asset-get.download.jsa?id=54627868877",
+                "calibration_date": "2022-10-18",
+                "factory_calibrated": "2022-10-18",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        },
+        "instrument_radiance": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "0091",
+                "make_model": "Satlantic OCR507R10W",
+                "comment": "Slocum Glider USF Bass",
+                "long_name": "Satlantic OCR507R10W Radiance Sensor",
+                "manual": "https://www.seabird.com/asset-get.download.jsa?id=54627868877",
+                "calibration_date": "2022-10-18",
+                "factory_calibrated": "2022-10-18",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        },
+        "instrument_fluorometer": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "0839",
+                "make_model": "Wetlabs BBFL2SLO",
+                "comment": "Slocum Glider USF Bass",
+                "long_name": "Wetlabs BBFL2SLO Flurometer",
+                "calibration_date": "2020-06-01",
+                "factory_calibrated": "2020-06-01",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        },
+        "instrument_dissolved_oxygen": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "0122",
+                "make_model": "Aanderaa 3835",
+                "comment": "Slocum Glider USF Bass",
+                "long_name": "Aanderaa Oxygen Optode 3835",
+                "calibration_date": "2020-06-01",
+                "factory_calibrated": "2020-06-01",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        }
+    }
+}
