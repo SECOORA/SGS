@@ -1,0 +1,186 @@
+{
+    "glider": "unit_507",
+    "trajectory_date": "20240312T0000",
+    "attributes": {
+        "acknowledgement": "This work was supported by funding from NOAA/IOOS/AOOS.",
+        "comment": "UAF G507 Glider deployment in the North Pacific Ocean (Mar 2024)",
+        "contributor_email": "sldanielson@alaska.edu",
+        "contributor_name": "Seth Danielson",
+        "contributor_role": "Principal Investigator",
+        "contributor_url": "https://www.uaf.edu/cfos/people/faculty/detail/seth-danielson.php",
+        "creator_email": "hank.stats@alaska.edu",
+        "creator_name": "Hank Statscewich",
+        "creator_url": "https://uaf.edu/cfos/people/research-staff-and-post-docs/detail/hank-statscewich.php",
+        "institution": "The University of Alaska Fairbanks College of Fisheries and Ocean Science",
+        "ioos_regional_association": "aoos",
+        "keywords": "Oceans > Ocean Pressure > Water Pressure, Oceans > Ocean Temperature > Water Temperature, Oceans > Salinity/Density > Conductivity, Oceans > Salinity/Density > Density, Oceans > Salinity/Density > Salinity",
+        "keywords_vocabulary": "GCMD Science Keywords",
+        "license": "This data may be redistributed and used without restriction.",
+        "metadata_link": "",
+        "naming_authority": "edu.alaska",
+        "platform_tags": "portal:25,axds:portal:25:tag:Gliders,axds:dashboard:glider:EcoMetrics Dashboard",
+        "platform_type": "Slocum Glider",
+        "processing_level": "Dataset taken from glider native file format and is provided as is with no expressed or implied assurance of quality assurance or quality control.",
+        "project": "AOOS Gliders in Support of Fisheries Management",
+        "publisher_email": "dmac@aoos.org",
+        "publisher_name": "AOOS Glider Observatory",
+        "publisher_url": "https://aoos.org",
+        "references": "https://www.uaf.edu/cfos/",
+        "sea_name": "North Pacific Ocean",
+        "source": "Observational data from a profiling glider",
+        "standard_name_vocabulary": "CF Standard Name Table v84",
+        "summary": "UAF G507 Glider deployment in the North Pacific Ocean (Mar 2024)",
+        "support_email": "dmac@aoos.org,ioos.glider.data@noaa.gov,ioos.glider.data@noaa.gov",
+        "support_name": "aoos,ioos,noaa",
+        "support_role": "fiscal,fiscal,fiscal",
+        "support_type": "ra,federal,federal",
+        "title": "G507 Slocum Glider Dataset (Mar 2024)",
+        "wmo_id": 4802989
+    },
+    "variables": {
+        "platform": {
+            "attributes": {
+                "comment": "Teledyne Webb Research Slocum G2 Glider",
+                "id": 4802989,
+                "instrument": "",
+                "long_name": "G507 Slocum Glider",
+                "type": "platform",
+                "wmo_id": 4802989
+            }
+        },
+        "density": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "depth": {
+            "attributes": {
+                "instrument": "instrument_altimeter"
+            }
+        },
+        "conductivity": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "pressure": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "salinity": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "temperature": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "c_wpt_lat": {
+            "attributes": {
+                "long_name": "c_wpt_lat"
+            }
+        },
+        "c_wpt_lon": {
+            "attributes": {
+                "long_name": "c_wpt_lon"
+            }
+        },
+        "m_altitude": {
+            "attributes": {
+                "instrument": "instrument_altitude"
+            }
+        },
+        "m_battery": {
+            "attributes": {
+                "units": "volts",
+                "long_name": "Battery Voltage"
+            }
+        },
+        "m_battpos": {
+            "attributes": {
+                "units": "in"
+            }
+        },
+        "m_coulomb_amphr_total": {
+            "attributes": {
+                "units": "amp-hours"
+            }
+        },
+        "m_heading": {
+        },
+        "m_leakdetect_voltage": {
+            "attributes": {
+                "units": "volts"
+            }
+        },
+        "sci_echodroid_sv": {
+            "attributes": {
+                "instrument": "instrument_acoustics",
+                "units": "db"
+            }
+        },
+        "sci_echodroid_propocc": {
+            "attributes": {
+                "instrument": "instrument_acoustics",
+                "units": "1"
+            }
+        },
+        "sci_echodroid_aggindex": {
+            "attributes": {
+                "instrument": "instrument_acoustics",
+                "units": "m-1"
+            }
+        },
+        "sci_echodroid_sa": {
+            "attributes": {
+                "instrument": "instrument_acoustics",
+                "units": "db"
+            }
+        },
+        "sci_echodroid_ctrmass": {
+            "attributes": {
+                "instrument": "instrument_acoustics",
+                "units": "m"
+            }
+        },
+        "sci_echodroid_inertia": {
+            "attributes": {
+                "instrument": "instrument_acoustics",
+                "units": "m-2"
+            }
+        },
+        "sci_echodroid_eqarea": {
+            "attributes": {
+                "instrument": "instrument_acoustics"
+            }
+        },
+        "sci_rinkoii_do": {
+            "attributes": {
+                "instrument": "instrument_dissolved_oxygen",
+                "long_name": "Dissolved Oxygen Concentration",
+                "units": "%"
+            }
+        },
+        "sci_flbbcd_bb_units": {
+            "attributes": {
+                "instrument": "instrument_fluorometer",
+                "units": "1"
+            }
+        },
+        "sci_flbbcd_cdom_units": {
+            "attributes": {
+                "instrument": "instrument_fluorometer",
+                "units": "1e-9"
+            }
+        },
+        "sci_flbbcd_chlor_units": {
+            "attributes": {
+                "instrument": "instrument_fluorometer",
+                "units": "ug L-1"
+            }
+        }
+    }
+}
