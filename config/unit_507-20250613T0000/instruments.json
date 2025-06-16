@@ -1,0 +1,97 @@
+{
+    "variables": {
+        "instrument_ctd": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "712-9221",
+                "make_model": "Seabird Slocum Glider Payload CTD",
+                "comment": "Slocum Glider UAF G507 -- pumped CTD",
+                "long_name": "Seabird WEBB pumped glider conductivity, temperature, depth sensor",
+                "calibration_date": "",
+                "user_calibrated": "n/a",
+                "factory_calibrated": "y",
+                "calibration_report": "n/a",
+                "platform": "platform",
+                "type": "instrument"
+            }
+        },
+        "instrument_altimeter": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_gps": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_altitude": {
+            "type": "i4",
+            "attributes": {
+                "make_model": "",
+                "type": "instrument"
+            }
+        },
+        "instrument_irradiance": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "",
+                "make_model": "",
+                "comment": "",
+                "long_name": "",
+                "calibration_date": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "platform": "platform",
+                "type": "instrument"
+            }
+        },
+        "instrument_radiance": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "",
+                "make_model": "",
+                "comment": "",
+                "long_name": "",
+                "calibration_date": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "platform": "platform",
+                "type": "instrument"
+            }
+        },
+        "instrument_fluorometer": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "",
+                "make_model": "Wetlabs FLNTUSLC",
+                "comment": "Slocum Glider UAF G507",
+                "long_name": "Wetlabs FLNTUSLC Fluorometer",
+                "calibration_date": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "platform": "platform",
+                "type": "instrument"
+            }
+        },
+        "instrument_dissolved_oxygen": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "",
+                "make_model": "JFE ALEC C0. RINKO-II",
+                "comment": "Slocum Glider UAF G507",
+                "long_name": "JFE ALEC CO. RINKO-II oxygen temp sensor",
+                "calibration_date": "n/a",
+                "factory_calibrated": "y",
+                "calibration_report": "n/a",
+                "platform": "platform",
+                "references": "https://www.jfe-advantech.co.jp/eng/assets/img/products/ocean-rinko/RINKO_Series(E)_201608.pdf",
+                "type": "instrument",
+                "resolution": "",
+                "accuracy": ""
+            }
+        }
+    }
+}
