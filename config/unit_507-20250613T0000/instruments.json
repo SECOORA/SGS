@@ -7,7 +7,7 @@
                 "make_model": "Seabird Slocum Glider Payload CTD",
                 "comment": "Slocum Glider UAF G507 -- pumped CTD",
                 "long_name": "Seabird WEBB pumped glider conductivity, temperature, depth sensor",
-                "calibration_date": "2017",
+                "calibration_date": "",
                 "user_calibrated": "n/a",
                 "factory_calibrated": "y",
                 "calibration_report": "n/a",
@@ -65,13 +65,13 @@
         "instrument_fluorometer": {
             "type": "i4",
             "attributes": {
-                "serial_number": "3948",
-                "make_model": "Wetlabs FLBBCD",
+                "serial_number": "",
+                "make_model": "Wetlabs FLNTUSLC",
                 "comment": "Slocum Glider UAF G507",
-                "long_name": "Wetlabs FLBBCD Fluorometer",
+                "long_name": "Wetlabs FLNTUSLC Fluorometer",
                 "calibration_date": "",
-                "factory_calibrated": "y",
-                "calibration_report": "n/a",
+                "factory_calibrated": "",
+                "calibration_report": "",
                 "platform": "platform",
                 "type": "instrument"
             }
@@ -79,7 +79,7 @@
         "instrument_dissolved_oxygen": {
             "type": "i4",
             "attributes": {
-                "serial_number": "0032",
+                "serial_number": "",
                 "make_model": "JFE ALEC C0. RINKO-II",
                 "comment": "Slocum Glider UAF G507",
                 "long_name": "JFE ALEC CO. RINKO-II oxygen temp sensor",
@@ -89,29 +89,8 @@
                 "platform": "platform",
                 "references": "https://www.jfe-advantech.co.jp/eng/assets/img/products/ocean-rinko/RINKO_Series(E)_201608.pdf",
                 "type": "instrument",
-                "resolution": 0.04,
-                "accuracy": 2
-            }
-        },
-        "instrument_acoustics": {
-            "type": "i4",
-            "attributes": {
-                "serial_number": "269615",
-                "make_model": "Simrad WBT Mini",
-                "serial_number_2": "167",
-                "make_model_2": "ES200-CDK-split",
-                "comment": "Slocum Glider UAF G507",
-                "long_name": "Kongsberg Simrad WBT Mini",
-                "mode_operation": "EK80",
-                "echosounderRangeBins": 20,
-                "echosounderRange": 60.0,
-                "echosounderRangeUnits": "meters",
-                "echosounderDirection": "up",
-                "calibration_date": "2023-03-21T12:00:00Z",
-                "factory_calibrated": "",
-                "calibration_report": "",
-                "platform": "platform",
-                "type": "instrument"
+                "resolution": "",
+                "accuracy": ""
             }
         }
     }
