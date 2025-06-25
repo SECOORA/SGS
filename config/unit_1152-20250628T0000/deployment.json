@@ -1,0 +1,95 @@
+{
+    "glider": "unit_1152",
+    "trajectory_date": "20250628T0000",
+    "attributes": {
+        "acknowledgement": "This work was supported by funding from NOAA/IOOS/AOOS.",
+        "comment": "",
+        "contributor_email": "sldanielson@alaska.edu",
+        "contributor_name": "Seth Danielson",
+        "contributor_role": "Principal Investigator",
+        "contributor_url": "https://www.uaf.edu/cfos/people/faculty/detail/seth-danielson.php",
+        "creator_email": "hank.stats@alaska.edu",
+        "creator_name": "Hank Statscewich",
+        "creator_url": "https://uaf.edu/cfos/people/research-staff-and-post-docs/detail/hank-statscewich.php",
+        "institution": "The University of Alaska Fairbanks College of Fisheries and Ocean Science",
+        "ioos_regional_association": "aoos",
+        "keywords": "Oceans > Ocean Pressure > Water Pressure, Oceans > Ocean Temperature > Water Temperature, Oceans > Salinity/Density > Conductivity, Oceans > Salinity/Density > Density, Oceans > Salinity/Density > Salinity",
+        "keywords_vocabulary": "GCMD Science Keywords",
+        "license": "This data may be redistributed and used without restriction.",
+        "metadata_link": "",
+        "naming_authority": "edu.alaska",
+        "platform_type": "Slocum Glider",
+        "processing_level": "Dataset taken from glider native file format and is provided as is with no expressed or implied assurance of quality assurance or quality control.",
+        "project": "AOOS Gliders in Support of Fisheries Management",
+        "publisher_email": "dmac@aoos.org",
+        "publisher_name": "AOOS Glider Observatory",
+        "publisher_url": "https://aoos.org",
+        "references": "",
+        "sea_name": "North Pacific Ocean",
+        "source": "Observational data from a profiling glider",
+        "summary": "The UAF G1152 Glider dataset contains measurements on seawater density, temperature, salinity, and phytoplankton from a Slocum Glider deployed in the North Pacific Ocean. This dataset was collected as part of the Alaska Ocean Observing System (AOOS) Glider Observatory funded by AOOS, the Integrated Ocean Observing System (IOOS), and the National Oceanic and Atmospheric Administration (NOAA). The purpose of the AOOS Glider Observatory is to support ecosystem assessments and fishery management, help detect marine heatwaves, and monitor the strength of algal blooms.",
+        "support_email": "dmac@aoos.org,ioos.glider.data@noaa.gov,ioos.glider.data@noaa.gov",
+        "support_name": "aoos,ioos,noaa",
+        "support_role": "fiscal,fiscal,fiscal",
+        "support_type": "ra,federal,federal",
+        "title": "Gulf of Alaska Glider 6/28/25 - present",
+        "wmo_id": "6801538"
+    },
+    "variables": {
+        "platform": {
+            "attributes": {
+                "comment": "",
+                "id": 6801538,
+                "instrument": "",
+                "long_name": "G1152 Slocum Glider",
+                "type": "platform",
+                "wmo_id": 6801538
+            }
+        },
+        "conductivity": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "m_altitude": {
+            "attributes": {
+                "instrument": "instrument_altitude"
+            }
+        },
+        "pressure": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        },
+        "sci_flbbcd_bb_units": {
+            "attributes": {
+                "instrument": "instrument_fluorometer",
+                "units": "1"
+            }
+        },
+        "sci_flbbcd_cdom_units": {
+            "attributes": {
+                "instrument": "instrument_fluorometer",
+                "units": "1e-9"
+            }
+        },
+        "sci_flbbcd_chlor_units": {
+            "attributes": {
+                "instrument": "instrument_fluorometer",
+                "units": "ug L-1"
+            }
+        },
+        "sci_rinkoii_do": {
+            "attributes": {
+                "instrument": "instrument_dissolved_oxygen",
+                "long_name": "Dissolved Oxygen Concentration",
+                "units": "%"
+            }
+        },
+        "temperature": {
+            "attributes": {
+                "instrument": "instrument_ctd"
+            }
+        }
+    }
+}
