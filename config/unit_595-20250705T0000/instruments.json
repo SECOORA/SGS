@@ -76,8 +76,8 @@
                 "calibration_date": "",
                 "factory_calibrated": "",
                 "calibration_report": "",
-                "platform": "",
-                "type": ""
+                "platform": "platform",
+                "type": "instrument"
             }
         }
     }
