@@ -1,0 +1,17 @@
+name: Configuration validity check\
+on:
+- push
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Run validation script
+      run: ./validate_json.sh
+  validate-deployment-configs:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Run metadata config check script
+      run: ./validate_deployments.sh
+
