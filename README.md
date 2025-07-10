@@ -12,4 +12,9 @@ Because invalid JSON files can cause the IOOS Glider DAC to break, it's worth do
 
 If all is good you should see `All JSON files are valid.`. Otherwise, you'll see a list of bad files to fix.
 
+You can additionally run `./validate_deployments.sh` to perform a set of
+sanity checks that go beyond just checking the validity of the JSON formatting.
+
+Both scripts also run via GitHub Actions when you push changes.
+
 For reference please see https://github.com/ioos/ioosngdac/wiki/NGDAC-NetCDF-File-Format-Version-2.

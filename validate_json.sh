@@ -12,5 +12,8 @@ done
 
 if [ "$valid" = true ]; then
     echo "All JSON files are valid."
+    exit 0
 fi
+
+exit 1
 
