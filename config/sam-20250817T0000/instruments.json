@@ -1,0 +1,66 @@
+{
+    "variables": {
+        "instrument_ctd": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "0126",
+                "make_model": "Seabird WEBB Glider CTD",
+                "comment": "unpumped CTD",
+                "long_name": "Seabird WEBB Glider Conductivity, Temperature, Depth Sensor",
+                "calibration_date": "2022-02-03",
+                "user_calibrated": "2022-02-03",
+                "factory_calibrated": "2022-02-03",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        },
+        "instrument_altimeter": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_gps": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_altitude": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument",
+                "make_model": "PNI TCM3"
+            }
+        },
+        "instrument_fluorometer": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "0839",
+                "make_model": "Wetlabs BBFL2SLO",
+                "comment": "Slocum Glider USF Sam",
+                "long_name": "Wetlabs BBFL2SLO Flurometer",
+                "calibration_date": "2022-01-12",
+                "factory_calibrated": "2022-01-12",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        },
+        "instrument_dissolved_oxygen": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "0122",
+                "make_model": "Aanderaa 3835",
+                "comment": "Slocum Glider USF Sam",
+                "long_name": "Aanderaa Oxygen Optode 3835",
+                "calibration_date": "2020-02-10",
+                "factory_calibrated": "2020-02-10",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        }
+    }
+}
