@@ -1,0 +1,73 @@
+{
+    "variables": {
+        "instrument_ctd": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "712-9481",
+                "make_model": "Seabird Slocum Glider Payload CTD",
+                "comment": "Slocum Glider SkIO Franklin -- pumped CTD",
+                "long_name": "Seabird WEBB pumped glider conductivity, temperature, depth sensor",
+                "calibration_date": "2025",
+                "user_calibrated": "",
+                "factory_calibrated": "y",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        },
+        "instrument_altimeter": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_gps": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_altitude": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument",
+                "make_model": ""
+            }
+        },
+        "instrument_irradiance": {
+            "type": "i4",
+            "attributes": {
+                "platform": "platform",
+                "type": "instrument"
+            }
+        },
+        "instrument_fluorometer": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "5489",
+                "make_model": "Wetlabs FLBBCD",
+                "comment": "Slocum Glider SkIO Franklin",
+                "long_name": "Wetlabs FLBBCD Fluorometer",
+                "calibration_date": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        },
+        "instrument_dissolved_oxygen": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "",
+                "make_model": "Aanderaa 4841",
+                "comment": "Slocum Glider SkIO Franklin",
+                "long_name": "Aanderaa Oxygen Optode 4841",
+                "calibration_date": "",
+                "factory_calibrated": "",
+                "calibration_report": "",
+                "type": "instrument",
+                "platform": "platform"
+            }
+        }
+    }
+}
