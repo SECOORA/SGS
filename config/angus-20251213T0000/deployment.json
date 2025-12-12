@@ -33,7 +33,7 @@
         "support_name": "secoora,ioos,noaa",
         "support_role": "fiscal,fiscal,fiscal",
         "support_type": "ra,federal,federal",
-        "title": "Franklin Slocum Glider Dataset (December 2025)",
+        "title": "Angus Slocum Glider Dataset (December 2025)",
         "wmo_id": 4802945
     },
     "variables": {
