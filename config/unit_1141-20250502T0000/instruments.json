@@ -1,0 +1,56 @@
+{
+    "variables": {
+        "instrument_ctd": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "214028",
+                "make_model": "RBR Logger unpumped CTD Sensor",
+                "comment": "Slocum Glider UAF G1141 -- unpumped CTD",
+                "long_name": "RBR upumped glider conductivity, temperature, depth sensor",
+                "calibration_date": "2023",
+                "factory_calibrated": "y",
+                "platform": "platform",
+                "type": "instrument"
+            }
+        },
+        "instrument_altimeter": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_gps": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_altitude": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_fluorometer": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "8478",
+                "make_model": "Wetlabs FLBBCD",
+                "comment": "Slocum Glider UAF G1141",
+                "long_name": "Wetlabs FLBBCD Fluorometer",
+                "platform": "platform",
+                "type": "instrument"
+            }
+        },
+        "instrument_dissolved_oxygen": {
+            "type": "i4",
+            "attributes": {
+                "make_model": "JFE ALEC CO. RINKO-II",
+                "long_name": "JFE ALEC CO. RINKO-II Dissolved Oxygen Sensor",
+                "references": "https://www.jfe-advantech.co.jp/eng/assets/img/products/ocean-rinko/RINKO(E)_202204.pdf",
+                "platform": "platform",
+                "type": "instrument"
+            }
+        }
+    }
+}
