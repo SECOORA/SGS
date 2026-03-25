@@ -1,6 +1,6 @@
 {
     "glider": "unit_191",
-    "trajectory_date": "20260320T0000",
+    "trajectory_date": "20260324T0000",
     "attributes": {
         "acknowledgement": "This work was supported by funding from NOAA/IOOS/AOOS.",
         "comment": "UAF G191 Glider deployment in the North Pacific Ocean (March 2026)",
@@ -33,7 +33,7 @@
         "support_name": "aoos,ioos,noaa",
         "support_role": "fiscal,fiscal,fiscal",
         "support_type": "ra,federal,federal",
-        "title": "Gulf of Alaska Glider 3/20/26 - present",
+        "title": "Gulf of Alaska Glider 3/24/26 - present",
         "wmo_id": 4802987
     },
     "variables": {
