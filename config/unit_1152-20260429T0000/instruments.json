@@ -1,0 +1,66 @@
+{
+    "variables": {
+        "instrument_ctd": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "214032",
+                "make_model": "RBR Logger Glider Payload unpumped CTD",
+                "comment": "Slocum Glider UAF G1152 -- unpumped CTD",
+                "long_name": "RBR WEBB unpumped glider conductivity, temperature, depth sensor",
+                "calibration_date": "2023-04-27",
+		"user_calibrated": "n",
+                "factory_calibrated": "y",
+		"calibration_report": "https://drive.google.com/drive/folders/150l5GMzHiqkQJUUChYwSNDUEFBYwzoIU",
+                "platform": "platform",
+                "type": "instrument"
+            }
+        },
+        "instrument_altimeter": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_gps": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_altitude": {
+            "type": "i4",
+            "attributes": {
+                "type": "instrument"
+            }
+        },
+        "instrument_fluorometer": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "FLBBCDSLC-8449",
+                "make_model": "Wetlabs FLBBCD",
+                "comment": "Slocum Glider UAF G1152",
+                "long_name": "Wetlabs FLBBCD Fluorometer",
+		"calibration_date": "2023-08-17",
+		"factory_calibrated": "y",
+		"calibration_report": "https://drive.google.com/drive/folders/150l5GMzHiqkQJUUChYwSNDUEFBYwzoIU",
+                "platform": "platform",
+                "type": "instrument"
+            }
+        },
+        "instrument_dissolved_oxygen": {
+            "type": "i4",
+            "attributes": {
+                "serial_number": "0073",
+                "make_model": "JFE ALEC CO. RINKO-II",
+                "comment": "Rinko II is a digital output version with a fast-response optical DO sensor.",
+                "long_name": "JFE ALEC CO. RINKO-II Dissolved Oxygen Sensor",
+                "references": "https://www.jfe-advantech.co.jp/eng/assets/img/products/ocean-rinko/RINKO(E)_202204.pdf",
+		"calibration_date": "2023-10-27",
+		"factory_calibrated": "y",
+		"calibration_report": "https://drive.google.com/drive/folders/150l5GMzHiqkQJUUChYwSNDUEFBYwzoIU",
+                "platform": "platform",
+                "type": "instrument"
+            }
+        }
+    }
+}
